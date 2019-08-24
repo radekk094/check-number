@@ -1,0 +1,140 @@
+{
+    "banks": [
+        {
+            "id": "1010",
+            "bankName": "Narodowy Bank Polski"
+        },
+        {
+            "id": "1020",
+            "bankName": "PKO BP"
+        },
+        {
+            "id": "1030",
+            "bankName": "Bank Handlowy (Citi Handlowy)"
+        },
+        {
+            "id": "1050",
+            "bankName": "ING Bank Śląski"
+        },
+        {
+            "id": "1060",
+            "bankName": "BPH"
+        },
+        {
+            "id": "1090",
+            "bankName": "BZ WBK"
+        },
+        {
+            "id": "1130",
+            "bankName": "BGK"
+        },
+        {
+            "id": "1140",
+            "bankName": "mBank, Orange Finanse"
+        },
+        {
+            "id": "1160",
+            "bankName": "Bank Millennium"
+        },
+        {
+            "id": "1240",
+            "bankName": "Pekao"
+        },
+        {
+            "id": "1280",
+            "bankName": "HSBC"
+        },
+        {
+            "id": "1320",
+            "bankName": "Bank Pocztowy"
+        },
+        {
+            "id": "1470",
+            "bankName": "Eurobank"
+        },
+        {
+            "id": "1540",
+            "bankName": "BOŚ"
+        },
+        {
+            "id": "1580",
+            "bankName": "Mercedes-Benz Bank Polska"
+        },
+        {
+            "id": "1610",
+            "bankName": "SGB - Bank"
+        },
+        {
+            "id": "1670",
+            "bankName": "RBS Bank (Polska)"
+        },
+        {
+            "id": "1680",
+            "bankName": "Plus Bank"
+        },
+        {
+            "id": "1750",
+            "bankName": "Raiffeisen Bank"
+        },
+        {
+            "id": "1840",
+            "bankName": "Societe Generale"
+        },
+        {
+            "id": "1870",
+            "bankName": "Nest Bank"
+        },
+        {
+            "id": "1910",
+            "bankName": "Deutsche Bank Polska"
+        },
+        {
+            "id": "1930",
+            "bankName": "Bank Polskiej Spółdzielczości"
+        },
+        {
+            "id": "1940",
+            "bankName": "Credit Agricole Bank Polska"
+        },
+        {
+            "id": "1950",
+            "bankName": "Idea Bank"
+        },
+        {
+            "id": "2030",
+            "bankName": "BGŻ BNP Paribas"
+        },
+        {
+            "id": "2070",
+            "bankName": "FCE Bank Polska"
+        },
+        {
+            "id": "2120",
+            "bankName": "Santander Consumer Bank"
+        },
+        {
+            "id": "2130",
+            "bankName": "Volkswagen Bank"
+        },
+        {
+            "id": "2140",
+            "bankName": "Fiat Bank Polska"
+        },
+        {
+            "id": "2160",
+            "bankName": "Toyota Bank"
+        },
+        {
+            "id": "2190",
+            "bankName": "DnB Nord"
+        },
+        {
+            "id": "2480",
+            "bankName": "Getin Noble Bank"
+        },
+        {
+            "id": "2490",
+            "bankName": "Alior Bank, T-Mobile Usługi Bankowe"
+        }
+    ]
+}

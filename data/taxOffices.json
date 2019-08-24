@@ -1,0 +1,3056 @@
+{
+    "offices": [
+        {
+            "id": "101",
+            "officeName": "Dolnośląski Urząd Skarbowy we Wrocławiu"
+        },
+        {
+            "id": "102",
+            "officeName": "Kujawsko-Pomorski Urząd Skarbowy w Bydgoszczy"
+        },
+        {
+            "id": "103",
+            "officeName": "Lubelski Urząd Skarbowy w Lublinie"
+        },
+        {
+            "id": "104",
+            "officeName": "Lubuski Urząd Skarbowy w Zielonej Górze"
+        },
+        {
+            "id": "105",
+            "officeName": "Łódzki Urząd Skarbowy w Łodzi"
+        },
+        {
+            "id": "106",
+            "officeName": "Małopolski Urząd Skarbowy w Krakowie"
+        },
+        {
+            "id": "107",
+            "officeName": "Pierwszy Mazowiecki Urząd Skarbowy w Warszawie"
+        },
+        {
+            "id": "108",
+            "officeName": "Drugi Mazowiecki Urząd Skarbowy w Warszawie"
+        },
+        {
+            "id": "109",
+            "officeName": "Trzeci Mazowiecki Urząd Skarbowy w Radomiu"
+        },
+        {
+            "id": "111",
+            "officeName": "Urząd Skarbowy Warszawa-Mokotów"
+        },
+        {
+            "id": "112",
+            "officeName": "Urząd Skarbowy Warszawa-Bemowo"
+        },
+        {
+            "id": "113",
+            "officeName": "Urząd Skarbowy Warszawa-Praga"
+        },
+        {
+            "id": "114",
+            "officeName": "Urząd Skarbowy Warszawa-Targówek"
+        },
+        {
+            "id": "115",
+            "officeName": "Pierwszy Urząd Skarbowy Warszawa-Śródmieście"
+        },
+        {
+            "id": "116",
+            "officeName": "Drugi Urząd Skarbowy Warszawa-Śródmieście"
+        },
+        {
+            "id": "117",
+            "officeName": "Urząd Skarbowy Warszawa-Wola"
+        },
+        {
+            "id": "118",
+            "officeName": "Urząd Skarbowy Warszawa-Bielany"
+        },
+        {
+            "id": "119",
+            "officeName": "Urząd Skarbowy w Grodzisku Mazowieckim"
+        },
+        {
+            "id": "121",
+            "officeName": "Urząd Skarbowy w Nowym Dworze Mazowieckim"
+        },
+        {
+            "id": "122",
+            "officeName": "Urząd Skarbowy w Otwocku"
+        },
+        {
+            "id": "123",
+            "officeName": "Urząd Skarbowy w Piasecznie"
+        },
+        {
+            "id": "124",
+            "officeName": "Urząd Skarbowy w Pruszkowie"
+        },
+        {
+            "id": "125",
+            "officeName": "Urząd Skarbowy w Wołominie"
+        },
+        {
+            "id": "126",
+            "officeName": "Urząd Skarbowy w Białej Podlaskiej"
+        },
+        {
+            "id": "127",
+            "officeName": "Urząd Skarbowy w Parczewie"
+        },
+        {
+            "id": "128",
+            "officeName": "Urząd Skarbowy w Radzyniu Podlaskim"
+        },
+        {
+            "id": "129",
+            "officeName": "Pierwszy Urząd Skarbowy w Białymstoku"
+        },
+        {
+            "id": "131",
+            "officeName": "Urząd Skarbowy w Bielsku Podlaskim"
+        },
+        {
+            "id": "132",
+            "officeName": "Urząd Skarbowy w Mońkach"
+        },
+        {
+            "id": "133",
+            "officeName": "Urząd Skarbowy w Siemiatyczach"
+        },
+        {
+            "id": "134",
+            "officeName": "Urząd Skarbowy w Sokółce"
+        },
+        {
+            "id": "135",
+            "officeName": "Pierwszy Urząd Skarbowy w Bielsku-Białej"
+        },
+        {
+            "id": "136",
+            "officeName": "Urząd Skarbowy w Cieszynie"
+        },
+        {
+            "id": "137",
+            "officeName": "Urząd Skarbowy w Oświęcimiu"
+        },
+        {
+            "id": "138",
+            "officeName": "Urząd Skarbowy w Suchej Beskidzkiej"
+        },
+        {
+            "id": "139",
+            "officeName": "Urząd Skarbowy w Wadowicach"
+        },
+        {
+            "id": "141",
+            "officeName": "Urząd Skarbowy w Żywcu"
+        },
+        {
+            "id": "142",
+            "officeName": "Pierwszy Urząd Skarbowy w Bydgoszczy"
+        },
+        {
+            "id": "143",
+            "officeName": "Urząd Skarbowy w Chojnicach"
+        },
+        {
+            "id": "144",
+            "officeName": "Urząd Skarbowy w Inowrocławiu"
+        },
+        {
+            "id": "145",
+            "officeName": "Urząd Skarbowy w Mogilnie"
+        },
+        {
+            "id": "146",
+            "officeName": "Urząd Skarbowy w Nakle nad Notecią "
+        },
+        {
+            "id": "147",
+            "officeName": "Urząd Skarbowy w Świeciu"
+        },
+        {
+            "id": "148",
+            "officeName": "Urząd Skarbowy w Tucholi"
+        },
+        {
+            "id": "149",
+            "officeName": "Urząd Skarbowy w Żninie"
+        },
+        {
+            "id": "151",
+            "officeName": "Urząd Skarbowy w Chełmie"
+        },
+        {
+            "id": "152",
+            "officeName": "Urząd Skarbowy w Krasnymstawie"
+        },
+        {
+            "id": "153",
+            "officeName": "Urząd Skarbowy we Włodawie"
+        },
+        {
+            "id": "154",
+            "officeName": "Urząd Skarbowy w Ciechanowie"
+        },
+        {
+            "id": "155",
+            "officeName": "Urząd Skarbowy w Działdowie"
+        },
+        {
+            "id": "156",
+            "officeName": "Urząd Skarbowy w Mławie"
+        },
+        {
+            "id": "157",
+            "officeName": "Urząd Skarbowy w Płońsku"
+        },
+        {
+            "id": "158",
+            "officeName": "Urząd Skarbowy w Pułtusku"
+        },
+        {
+            "id": "159",
+            "officeName": "Pierwszy Urząd Skarbowy w Częstochowie"
+        },
+        {
+            "id": "161",
+            "officeName": "Urząd Skarbowy w Kłobucku"
+        },
+        {
+            "id": "162",
+            "officeName": "Urząd Skarbowy w Lublińcu"
+        },
+        {
+            "id": "163",
+            "officeName": "Urząd Skarbowy w Myszkowie"
+        },
+        {
+            "id": "164",
+            "officeName": "Urząd Skarbowy w Oleśnie"
+        },
+        {
+            "id": "165",
+            "officeName": "Urząd Skarbowy w Braniewie"
+        },
+        {
+            "id": "166",
+            "officeName": "Urząd Skarbowy w Elblągu"
+        },
+        {
+            "id": "167",
+            "officeName": "Urząd Skarbowy w Kwidzynie"
+        },
+        {
+            "id": "168",
+            "officeName": "Urząd Skarbowy w Malborku"
+        },
+        {
+            "id": "169",
+            "officeName": "Pierwszy Urząd Skarbowy w Gdańsku"
+        },
+        {
+            "id": "171",
+            "officeName": "Drugi Urząd Skarbowy w Gdańsku"
+        },
+        {
+            "id": "172",
+            "officeName": "Pierwszy Urząd Skarbowy w Gdyni"
+        },
+        {
+            "id": "173",
+            "officeName": "Urząd Skarbowy w Kartuzach"
+        },
+        {
+            "id": "174",
+            "officeName": "Urząd Skarbowy w Kościerzynie"
+        },
+        {
+            "id": "175",
+            "officeName": "Urząd Skarbowy w Pucku"
+        },
+        {
+            "id": "176",
+            "officeName": "Urząd Skarbowy w Sopocie"
+        },
+        {
+            "id": "177",
+            "officeName": "Urząd Skarbowy w Starogardzie Gdańskim"
+        },
+        {
+            "id": "178",
+            "officeName": "Urząd Skarbowy w Tczewie"
+        },
+        {
+            "id": "179",
+            "officeName": "Urząd Skarbowy w Wejherowie"
+        },
+        {
+            "id": "181",
+            "officeName": "Urząd Skarbowy w Choszcznie"
+        },
+        {
+            "id": "182",
+            "officeName": "Urząd Skarbowy w Gorzowie Wielkopolskim"
+        },
+        {
+            "id": "183",
+            "officeName": "Urząd Skarbowy w Myśliborzu"
+        },
+        {
+            "id": "184",
+            "officeName": "Urząd Skarbowy w Międzychodzie"
+        },
+        {
+            "id": "185",
+            "officeName": "Urząd Skarbowy w Międzyrzeczu"
+        },
+        {
+            "id": "186",
+            "officeName": "Urząd Skarbowy w Słubicach"
+        },
+        {
+            "id": "187",
+            "officeName": "Urząd Skarbowy w Bolesławcu"
+        },
+        {
+            "id": "188",
+            "officeName": "Urząd Skarbowy w Jeleniej Górze"
+        },
+        {
+            "id": "189",
+            "officeName": "Urząd Skarbowy w Kamiennej Górze"
+        },
+        {
+            "id": "191",
+            "officeName": "Urząd Skarbowy w Lubaniu"
+        },
+        {
+            "id": "192",
+            "officeName": "Urząd Skarbowy w Lwówku Śląskim"
+        },
+        {
+            "id": "193",
+            "officeName": "Urząd Skarbowy w Zgorzelcu"
+        },
+        {
+            "id": "194",
+            "officeName": "Urząd Skarbowy w Jarocinie"
+        },
+        {
+            "id": "195",
+            "officeName": "Pierwszy Urząd Skarbowy w Kaliszu"
+        },
+        {
+            "id": "196",
+            "officeName": "Urząd Skarbowy w Kępnie"
+        },
+        {
+            "id": "197",
+            "officeName": "Urząd Skarbowy w Krotoszynie"
+        },
+        {
+            "id": "198",
+            "officeName": "Urząd Skarbowy w Ostrowie Wielkopolskim"
+        },
+        {
+            "id": "199",
+            "officeName": "Urząd Skarbowy w Będzinie"
+        },
+        {
+            "id": "201",
+            "officeName": "Opolski Urząd Skarbowy w Opolu"
+        },
+        {
+            "id": "202",
+            "officeName": "Podkarpacki Urząd Skarbowy w Rzeszowie"
+        },
+        {
+            "id": "203",
+            "officeName": "Podlaski Urząd Skarbowy w Białymstoku"
+        },
+        {
+            "id": "204",
+            "officeName": "Pomorski Urząd Skarbowy w Gdańsku"
+        },
+        {
+            "id": "205",
+            "officeName": "Pierwszy Śląski Urząd Skarbowy w Sosnowcu"
+        },
+        {
+            "id": "206",
+            "officeName": "Drugi Śląski Urząd Skarbowy w Bielsku-Białej"
+        },
+        {
+            "id": "207",
+            "officeName": "Świętokrzyski Urząd Skarbowy w Kielcach"
+        },
+        {
+            "id": "208",
+            "officeName": "Warmińsko-Mazurski Urząd Skarbowy w Olsztynie"
+        },
+        {
+            "id": "209",
+            "officeName": "Pierwszy Wielkopolski Urząd Skarbowy w Poznaniu"
+        },
+        {
+            "id": "211",
+            "officeName": "Urząd Skarbowy w Bytomiu"
+        },
+        {
+            "id": "212",
+            "officeName": "Urząd Skarbowy w Chorzowie"
+        },
+        {
+            "id": "213",
+            "officeName": "Urząd Skarbowy w Chrzanowie"
+        },
+        {
+            "id": "214",
+            "officeName": "Urząd Skarbowy w Czechowicach-Dziedzicach"
+        },
+        {
+            "id": "215",
+            "officeName": "Urząd Skarbowy w Dąbrowie Górniczej"
+        },
+        {
+            "id": "216",
+            "officeName": "Pierwszy Urząd Skarbowy w Gliwicach"
+        },
+        {
+            "id": "217",
+            "officeName": "Urząd Skarbowy w Jastrzębiu-Zdroju"
+        },
+        {
+            "id": "218",
+            "officeName": "Urząd Skarbowy w Jaworznie"
+        },
+        {
+            "id": "219",
+            "officeName": "Pierwszy Urząd Skarbowy w Katowicach"
+        },
+        {
+            "id": "221",
+            "officeName": "Urząd Skarbowy w Mikołowie"
+        },
+        {
+            "id": "222",
+            "officeName": "Urząd Skarbowy w Mysłowicach"
+        },
+        {
+            "id": "223",
+            "officeName": "Urząd Skarbowy w Olkuszu"
+        },
+        {
+            "id": "224",
+            "officeName": "Urząd Skarbowy w Pszczynie"
+        },
+        {
+            "id": "225",
+            "officeName": "Urząd Skarbowy w Raciborzu"
+        },
+        {
+            "id": "226",
+            "officeName": "Urząd Skarbowy w Rudzie Śląskiej"
+        },
+        {
+            "id": "227",
+            "officeName": "Urząd Skarbowy w Rybniku"
+        },
+        {
+            "id": "228",
+            "officeName": "Urząd Skarbowy w Siemianowicach Śląskich"
+        },
+        {
+            "id": "229",
+            "officeName": "Urząd Skarbowy w Sosnowcu"
+        },
+        {
+            "id": "231",
+            "officeName": "Urząd Skarbowy w Tarnowskich Górach"
+        },
+        {
+            "id": "232",
+            "officeName": "Urząd Skarbowy w Tychach"
+        },
+        {
+            "id": "233",
+            "officeName": "Urząd Skarbowy w Wodzisławiu Śląskim"
+        },
+        {
+            "id": "234",
+            "officeName": "Urząd Skarbowy w Zabrzu"
+        },
+        {
+            "id": "235",
+            "officeName": "Urząd Skarbowy w Zawierciu"
+        },
+        {
+            "id": "236",
+            "officeName": "Urząd Skarbowy w Żorach"
+        },
+        {
+            "id": "237",
+            "officeName": "Urząd Skarbowy w Busku-Zdroju"
+        },
+        {
+            "id": "238",
+            "officeName": "Urząd Skarbowy w Jędrzejowie"
+        },
+        {
+            "id": "239",
+            "officeName": "Pierwszy Urząd Skarbowy w Kielcach"
+        },
+        {
+            "id": "241",
+            "officeName": "Urząd Skarbowy w Końskich"
+        },
+        {
+            "id": "242",
+            "officeName": "Urząd Skarbowy w Miechowie"
+        },
+        {
+            "id": "243",
+            "officeName": "Urząd Skarbowy w Ostrowcu Świętokrzyskim"
+        },
+        {
+            "id": "244",
+            "officeName": "Urząd Skarbowy w Pińczowie"
+        },
+        {
+            "id": "245",
+            "officeName": "Urząd Skarbowy w Starachowicach"
+        },
+        {
+            "id": "246",
+            "officeName": "Urząd Skarbowy w Skarżysku-Kamiennej"
+        },
+        {
+            "id": "247",
+            "officeName": "Urząd Skarbowy w Kole"
+        },
+        {
+            "id": "248",
+            "officeName": "Urząd Skarbowy w Koninie"
+        },
+        {
+            "id": "249",
+            "officeName": "Urząd Skarbowy w Słupcy"
+        },
+        {
+            "id": "251",
+            "officeName": "Urząd Skarbowy w Turku"
+        },
+        {
+            "id": "252",
+            "officeName": "Urząd Skarbowy w Białogardzie"
+        },
+        {
+            "id": "253",
+            "officeName": "Urząd Skarbowy w Drawsku Pomorskim"
+        },
+        {
+            "id": "254",
+            "officeName": "Urząd Skarbowy w Kołobrzegu"
+        },
+        {
+            "id": "255",
+            "officeName": "Pierwszy Urząd Skarbowy w Koszalinie"
+        },
+        {
+            "id": "256",
+            "officeName": "Urząd Skarbowy w Szczecinku"
+        },
+        {
+            "id": "257",
+            "officeName": "Urząd Skarbowy Kraków-Krowodrza"
+        },
+        {
+            "id": "258",
+            "officeName": "Urząd Skarbowy Kraków-Nowa Huta"
+        },
+        {
+            "id": "259",
+            "officeName": "Urząd Skarbowy Kraków-Podgórze"
+        },
+        {
+            "id": "261",
+            "officeName": "Urząd Skarbowy w Kraków-Śródmieście"
+        },
+        {
+            "id": "262",
+            "officeName": "Urząd Skarbowy w Kraków-Stare Miasto"
+        },
+        {
+            "id": "263",
+            "officeName": "Urząd Skarbowy w Myślenicach"
+        },
+        {
+            "id": "264",
+            "officeName": "Urząd Skarbowy w Proszowicach"
+        },
+        {
+            "id": "265",
+            "officeName": "Urząd Skarbowy w Wieliczce"
+        },
+        {
+            "id": "266",
+            "officeName": "Urząd Skarbowy w Brzozowie"
+        },
+        {
+            "id": "267",
+            "officeName": "Urząd Skarbowy w Jaśle"
+        },
+        {
+            "id": "268",
+            "officeName": "Urząd Skarbowy w Krośnie"
+        },
+        {
+            "id": "269",
+            "officeName": "Urząd Skarbowy w Lesku"
+        },
+        {
+            "id": "271",
+            "officeName": "Urząd Skarbowy w Sanoku"
+        },
+        {
+            "id": "272",
+            "officeName": "Urząd Skarbowy w Ustrzykach Dolnych"
+        },
+        {
+            "id": "273",
+            "officeName": "Urząd Skarbowy w Głogowie"
+        },
+        {
+            "id": "274",
+            "officeName": "Urząd Skarbowy w Jaworze"
+        },
+        {
+            "id": "275",
+            "officeName": "Urząd Skarbowy w Legnicy"
+        },
+        {
+            "id": "276",
+            "officeName": "Urząd Skarbowy w Lubinie"
+        },
+        {
+            "id": "277",
+            "officeName": "Urząd Skarbowy w Złotoryi"
+        },
+        {
+            "id": "278",
+            "officeName": "Urząd Skarbowy w Gostyniu"
+        },
+        {
+            "id": "279",
+            "officeName": "Urząd Skarbowy w Kościanie"
+        },
+        {
+            "id": "281",
+            "officeName": "Urząd Skarbowy w Lesznie"
+        },
+        {
+            "id": "282",
+            "officeName": "Urząd Skarbowy w Rawiczu"
+        },
+        {
+            "id": "283",
+            "officeName": "Urząd Skarbowy w Kraśniku"
+        },
+        {
+            "id": "284",
+            "officeName": "Urząd Skarbowy w Lubartowie"
+        },
+        {
+            "id": "285",
+            "officeName": "Pierwszy Urząd Skarbowy w Lublinie"
+        },
+        {
+            "id": "286",
+            "officeName": "Drugi Urząd Skarbowy w Lublinie"
+        },
+        {
+            "id": "287",
+            "officeName": "Urząd Skarbowy w Opolu Lubelskim"
+        },
+        {
+            "id": "288",
+            "officeName": "Urząd Skarbowy w Puławach"
+        },
+        {
+            "id": "289",
+            "officeName": "Urząd Skarbowy w Grajewie"
+        },
+        {
+            "id": "291",
+            "officeName": "Urząd Skarbowy w Kolnie"
+        },
+        {
+            "id": "292",
+            "officeName": "Urząd Skarbowy w Łomży"
+        },
+        {
+            "id": "293",
+            "officeName": "Urząd Skarbowy w Wysokiem Mazowieckim"
+        },
+        {
+            "id": "294",
+            "officeName": "Urząd Skarbowy w Zambrowie"
+        },
+        {
+            "id": "295",
+            "officeName": "Urząd Skarbowy w Głownie"
+        },
+        {
+            "id": "296",
+            "officeName": "Pierwszy Urząd Skarbowy Łódź-Bałuty"
+        },
+        {
+            "id": "297",
+            "officeName": "Pierwszy Urząd Skarbowy Łódź-Górna"
+        },
+        {
+            "id": "298",
+            "officeName": "Urząd Skarbowy Łódź-Polesie"
+        },
+        {
+            "id": "301",
+            "officeName": "Drugi Wielkopolski Urząd Skarbowy w Kaliszu"
+        },
+        {
+            "id": "302",
+            "officeName": "Zachodniopomorski Urząd Skarbowy w Szczecinie"
+        },
+        {
+            "id": "311",
+            "officeName": "Urząd Skarbowy Łódź-Śródmieście"
+        },
+        {
+            "id": "312",
+            "officeName": "Urząd Skarbowy Łódź-Widzew"
+        },
+        {
+            "id": "313",
+            "officeName": "Urząd Skarbowy w Pabianicach"
+        },
+        {
+            "id": "314",
+            "officeName": "Urząd Skarbowy w Zgierzu"
+        },
+        {
+            "id": "315",
+            "officeName": "Urząd Skarbowy w Gorlicach"
+        },
+        {
+            "id": "316",
+            "officeName": "Urząd Skarbowy w Limanowej"
+        },
+        {
+            "id": "317",
+            "officeName": "Urząd Skarbowy w Nowym Sączu"
+        },
+        {
+            "id": "318",
+            "officeName": "Urząd Skarbowy w Nowym Targu"
+        },
+        {
+            "id": "319",
+            "officeName": "Urząd Skarbowy w Zakopanem"
+        },
+        {
+            "id": "321",
+            "officeName": "Urząd Skarbowy w Bartoszycach"
+        },
+        {
+            "id": "322",
+            "officeName": "Urząd Skarbowy w Iławie"
+        },
+        {
+            "id": "323",
+            "officeName": "Urząd Skarbowy w Kętrzynie"
+        },
+        {
+            "id": "324",
+            "officeName": "Urząd Skarbowy w Olsztynie"
+        },
+        {
+            "id": "325",
+            "officeName": "Urząd Skarbowy w Ostródzie"
+        },
+        {
+            "id": "326",
+            "officeName": "Urząd Skarbowy w Szczytnie"
+        },
+        {
+            "id": "327",
+            "officeName": "Urząd Skarbowy w Brzegu"
+        },
+        {
+            "id": "328",
+            "officeName": "Urząd Skarbowy w Głubczycach"
+        },
+        {
+            "id": "329",
+            "officeName": "Urząd Skarbowy w Kędzierzynie-Koźlu"
+        },
+        {
+            "id": "331",
+            "officeName": "Urząd Skarbowy w Kluczborku"
+        },
+        {
+            "id": "332",
+            "officeName": "Urząd Skarbowy w Namysłowie"
+        },
+        {
+            "id": "333",
+            "officeName": "Urząd Skarbowy w Nysie"
+        },
+        {
+            "id": "334",
+            "officeName": "Pierwszy Urząd Skarbowy w Opolu"
+        },
+        {
+            "id": "335",
+            "officeName": "Urząd Skarbowy w Prudniku"
+        },
+        {
+            "id": "336",
+            "officeName": "Urząd Skarbowy w Strzelcach Opolskich"
+        },
+        {
+            "id": "337",
+            "officeName": "Urząd Skarbowy w Makowie Mazowieckim"
+        },
+        {
+            "id": "338",
+            "officeName": "Urząd Skarbowy w Ostrołęce"
+        },
+        {
+            "id": "339",
+            "officeName": "Urząd Skarbowy w Ostrowi Mazowieckiej"
+        },
+        {
+            "id": "341",
+            "officeName": "Urząd Skarbowy w Przasnyszu"
+        },
+        {
+            "id": "342",
+            "officeName": "Urząd Skarbowy w Wyszkowie"
+        },
+        {
+            "id": "343",
+            "officeName": "Urząd Skarbowy w Czarnkowie"
+        },
+        {
+            "id": "344",
+            "officeName": "Urząd Skarbowy w Pile"
+        },
+        {
+            "id": "345",
+            "officeName": "Urząd Skarbowy w Wałczu"
+        },
+        {
+            "id": "346",
+            "officeName": "Urząd Skarbowy w Wągrowcu"
+        },
+        {
+            "id": "347",
+            "officeName": "Urząd Skarbowy w Złotowie"
+        },
+        {
+            "id": "348",
+            "officeName": "Urząd Skarbowy w Bełchatowie"
+        },
+        {
+            "id": "349",
+            "officeName": "Urząd Skarbowy w Opocznie"
+        },
+        {
+            "id": "351",
+            "officeName": "Urząd Skarbowy w Piotrkowie Trybunalskim"
+        },
+        {
+            "id": "352",
+            "officeName": "Urząd Skarbowy w Radomsku"
+        },
+        {
+            "id": "353",
+            "officeName": "Urząd Skarbowy w Tomaszowie Mazowieckim"
+        },
+        {
+            "id": "354",
+            "officeName": "Urząd Skarbowy w Kutnie"
+        },
+        {
+            "id": "355",
+            "officeName": "Urząd Skarbowy w Płocku"
+        },
+        {
+            "id": "356",
+            "officeName": "Urząd Skarbowy w Sierpcu"
+        },
+        {
+            "id": "357",
+            "officeName": "Urząd Skarbowy w Gnieźnie"
+        },
+        {
+            "id": "358",
+            "officeName": "Urząd Skarbowy w Nowym Tomyślu"
+        },
+        {
+            "id": "359",
+            "officeName": "Urząd Skarbowy Poznań-Grunwald"
+        },
+        {
+            "id": "361",
+            "officeName": "Urząd Skarbowy Poznań-Jeżyce"
+        },
+        {
+            "id": "362",
+            "officeName": "Urząd Skarbowy Poznań-Nowe Miasto"
+        },
+        {
+            "id": "363",
+            "officeName": "Pierwszy Urząd Skarbowy Poznań "
+        },
+        {
+            "id": "364",
+            "officeName": "Urząd Skarbowy Poznań-Śródmieście"
+        },
+        {
+            "id": "365",
+            "officeName": "Urząd Skarbowy Poznań-Wilda"
+        },
+        {
+            "id": "366",
+            "officeName": "Urząd Skarbowy w Szamotułach"
+        },
+        {
+            "id": "367",
+            "officeName": "Urząd Skarbowy w Śremie"
+        },
+        {
+            "id": "368",
+            "officeName": "Urząd Skarbowy w Środzie Wielkopolskiej"
+        },
+        {
+            "id": "369",
+            "officeName": "Urząd Skarbowy we Wrześni"
+        },
+        {
+            "id": "371",
+            "officeName": "Urząd Skarbowy w Jarosławiu"
+        },
+        {
+            "id": "372",
+            "officeName": "Urząd Skarbowy w Lubaczowie"
+        },
+        {
+            "id": "373",
+            "officeName": "Urząd Skarbowy w Przemyślu"
+        },
+        {
+            "id": "374",
+            "officeName": "Urząd Skarbowy w Przeworsku"
+        },
+        {
+            "id": "375",
+            "officeName": "Urząd Skarbowy w Białobrzegach"
+        },
+        {
+            "id": "376",
+            "officeName": "Urząd Skarbowy w Grójcu"
+        },
+        {
+            "id": "377",
+            "officeName": "Urząd Skarbowy w Kozienicach"
+        },
+        {
+            "id": "378",
+            "officeName": "Pierwszy Urząd Skarbowy w Radomiu"
+        },
+        {
+            "id": "379",
+            "officeName": "Urząd Skarbowy w Szydłowcu"
+        },
+        {
+            "id": "381",
+            "officeName": "Urząd Skarbowy w Zwoleniu"
+        },
+        {
+            "id": "382",
+            "officeName": "Urząd Skarbowy w Kolbuszowej"
+        },
+        {
+            "id": "383",
+            "officeName": "Urząd Skarbowy w Leżajsku"
+        },
+        {
+            "id": "384",
+            "officeName": "Urząd Skarbowy w Łańcucie"
+        },
+        {
+            "id": "385",
+            "officeName": "Urząd Skarbowy w Mielcu"
+        },
+        {
+            "id": "386",
+            "officeName": "Urząd Skarbowy w Ropczycach"
+        },
+        {
+            "id": "387",
+            "officeName": "Urząd Skarbowy w Rzeszowie"
+        },
+        {
+            "id": "388",
+            "officeName": "Urząd Skarbowy w Strzyżowie"
+        },
+        {
+            "id": "389",
+            "officeName": "Urząd Skarbowy w Garwolinie"
+        },
+        {
+            "id": "391",
+            "officeName": "Urząd Skarbowy w Łukowie"
+        },
+        {
+            "id": "392",
+            "officeName": "Urząd Skarbowy w Mińsku Mazowieckim"
+        },
+        {
+            "id": "393",
+            "officeName": "Urząd Skarbowy w Siedlcach"
+        },
+        {
+            "id": "394",
+            "officeName": "Urząd Skarbowy w Sokołowie Podlaskim"
+        },
+        {
+            "id": "395",
+            "officeName": "Urząd Skarbowy w Węgrowie"
+        },
+        {
+            "id": "396",
+            "officeName": "Urząd Skarbowy w Łasku"
+        },
+        {
+            "id": "397",
+            "officeName": "Urząd Skarbowy w Poddębicach"
+        },
+        {
+            "id": "398",
+            "officeName": "Urząd Skarbowy w Sieradzu"
+        },
+        {
+            "id": "399",
+            "officeName": "Urząd Skarbowy w Wieluniu"
+        },
+        {
+            "id": "411",
+            "officeName": "Urząd Skarbowy w Zduńskiej Woli"
+        },
+        {
+            "id": "412",
+            "officeName": "Urząd Skarbowy w Brzezinach"
+        },
+        {
+            "id": "413",
+            "officeName": "Urząd Skarbowy w Łowiczu"
+        },
+        {
+            "id": "414",
+            "officeName": "Urząd Skarbowy w Rawie Mazowieckiej"
+        },
+        {
+            "id": "415",
+            "officeName": "Urząd Skarbowy w Skierniewicach"
+        },
+        {
+            "id": "416",
+            "officeName": "Urząd Skarbowy w Sochaczewie"
+        },
+        {
+            "id": "417",
+            "officeName": "Urząd Skarbowy w Żyrardowie"
+        },
+        {
+            "id": "418",
+            "officeName": "Urząd Skarbowy w Bytowie"
+        },
+        {
+            "id": "419",
+            "officeName": "Urząd Skarbowy w Człuchowie"
+        },
+        {
+            "id": "421",
+            "officeName": "Urząd Skarbowy w Lęborku"
+        },
+        {
+            "id": "422",
+            "officeName": "Urząd Skarbowy w Słupsku"
+        },
+        {
+            "id": "423",
+            "officeName": "Urząd Skarbowy w Augustowie"
+        },
+        {
+            "id": "424",
+            "officeName": "Urząd Skarbowy w Ełku"
+        },
+        {
+            "id": "425",
+            "officeName": "Urząd Skarbowy w Giżycku"
+        },
+        {
+            "id": "426",
+            "officeName": "Urząd Skarbowy w Olecku"
+        },
+        {
+            "id": "427",
+            "officeName": "Urząd Skarbowy w Piszu"
+        },
+        {
+            "id": "428",
+            "officeName": "Urząd Skarbowy w Suwałkach"
+        },
+        {
+            "id": "429",
+            "officeName": "Urząd Skarbowy w Goleniowie"
+        },
+        {
+            "id": "431",
+            "officeName": "Urząd Skarbowy w Gryficach"
+        },
+        {
+            "id": "432",
+            "officeName": "Urząd Skarbowy w Gryfinie"
+        },
+        {
+            "id": "433",
+            "officeName": "Urząd Skarbowy w Pyrzycach"
+        },
+        {
+            "id": "434",
+            "officeName": "Urząd Skarbowy w Stargardzie Szczecińskim"
+        },
+        {
+            "id": "435",
+            "officeName": "Pierwszy Urząd Skarbowy w Szczecinie"
+        },
+        {
+            "id": "436",
+            "officeName": "Drugi Urząd Skarbowy w Szczecinie"
+        },
+        {
+            "id": "437",
+            "officeName": "Urząd Skarbowy w Świnoujściu"
+        },
+        {
+            "id": "438",
+            "officeName": "Urząd Skarbowy w Janowie Lubelskim"
+        },
+        {
+            "id": "439",
+            "officeName": "Urząd Skarbowy w Opatowie"
+        },
+        {
+            "id": "441",
+            "officeName": "Urząd Skarbowy w Sandomierzu"
+        },
+        {
+            "id": "442",
+            "officeName": "Urząd Skarbowy w Stalowej Woli"
+        },
+        {
+            "id": "443",
+            "officeName": "Urząd Skarbowy w Staszowie"
+        },
+        {
+            "id": "444",
+            "officeName": "Urząd Skarbowy w Tarnobrzegu"
+        },
+        {
+            "id": "445",
+            "officeName": "Urząd Skarbowy w Bochni"
+        },
+        {
+            "id": "446",
+            "officeName": "Urząd Skarbowy w Brzesku"
+        },
+        {
+            "id": "447",
+            "officeName": "Urząd Skarbowy w Dąbrowie Tarnowskiej"
+        },
+        {
+            "id": "448",
+            "officeName": "Urząd Skarbowy w Dębicy"
+        },
+        {
+            "id": "449",
+            "officeName": "Pierwszy Urząd Skarbowy w Tarnowie"
+        },
+        {
+            "id": "451",
+            "officeName": "Urząd Skarbowy w Brodnicy"
+        },
+        {
+            "id": "452",
+            "officeName": "Urząd Skarbowy w Chełmnie"
+        },
+        {
+            "id": "453",
+            "officeName": "Urząd Skarbowy w Grudziądzu"
+        },
+        {
+            "id": "454",
+            "officeName": "Urząd Skarbowy w Nowym Mieście Lubawskim"
+        },
+        {
+            "id": "455",
+            "officeName": "Drugi Urząd Skarbowy w Toruniu"
+        },
+        {
+            "id": "456",
+            "officeName": "Urząd Skarbowy w Wąbrzeźnie"
+        },
+        {
+            "id": "457",
+            "officeName": "Urząd Skarbowy w Bystrzycy Kłodzkiej"
+        },
+        {
+            "id": "458",
+            "officeName": "Urząd Skarbowy w Dzierżoniowie"
+        },
+        {
+            "id": "459",
+            "officeName": "Urząd Skarbowy w Kłodzku"
+        },
+        {
+            "id": "461",
+            "officeName": "Urząd Skarbowy w Nowej Rudzie"
+        },
+        {
+            "id": "462",
+            "officeName": "Urząd Skarbowy w Świdnicy"
+        },
+        {
+            "id": "463",
+            "officeName": "Urząd Skarbowy w Wałbrzychu"
+        },
+        {
+            "id": "464",
+            "officeName": "Urząd Skarbowy w Ząbkowicach Śląskich"
+        },
+        {
+            "id": "465",
+            "officeName": "Urząd Skarbowy w Aleksandrowie Kujawskim"
+        },
+        {
+            "id": "466",
+            "officeName": "Urząd Skarbowy w Lipnie"
+        },
+        {
+            "id": "467",
+            "officeName": "Urząd Skarbowy w Radziejowie"
+        },
+        {
+            "id": "468",
+            "officeName": "Urząd Skarbowy w Rypinie"
+        },
+        {
+            "id": "469",
+            "officeName": "Urząd Skarbowy we Włocławku"
+        },
+        {
+            "id": "471",
+            "officeName": "Urząd Skarbowy Wrocław-Fabryczna"
+        },
+        {
+            "id": "472",
+            "officeName": "Urząd Skarbowy Wrocław-Krzyki"
+        },
+        {
+            "id": "473",
+            "officeName": "Urząd Skarbowy Wrocław-Psie Pole"
+        },
+        {
+            "id": "474",
+            "officeName": "Urząd Skarbowy Wrocław-Stare Miasto"
+        },
+        {
+            "id": "475",
+            "officeName": "Pierwszy Urząd Skarbowy we Wrocławiu"
+        },
+        {
+            "id": "476",
+            "officeName": "Drugi Urząd Skarbowy Wrocław-Śródmieście"
+        },
+        {
+            "id": "477",
+            "officeName": "Urząd Skarbowy w Miliczu"
+        },
+        {
+            "id": "478",
+            "officeName": "Urząd Skarbowy w Oleśnicy"
+        },
+        {
+            "id": "479",
+            "officeName": "Urząd Skarbowy w Oławie"
+        },
+        {
+            "id": "481",
+            "officeName": "Urząd Skarbowy w Strzelnie"
+        },
+        {
+            "id": "482",
+            "officeName": "Urząd Skarbowy w Środzie Śląskiej"
+        },
+        {
+            "id": "483",
+            "officeName": "Urząd Skarbowy w Trzebnicy"
+        },
+        {
+            "id": "484",
+            "officeName": "Urząd Skarbowy w Biłgoraju"
+        },
+        {
+            "id": "485",
+            "officeName": "Urząd Skarbowy w Hrubieszowie"
+        },
+        {
+            "id": "486",
+            "officeName": "Urząd Skarbowy w Tomaszowie Lubelskim"
+        },
+        {
+            "id": "487",
+            "officeName": "Urząd Skarbowy w Zamościu"
+        },
+        {
+            "id": "488",
+            "officeName": "Urząd Skarbowy w Krośnie Odrzańskim"
+        },
+        {
+            "id": "489",
+            "officeName": "Urząd Skarbowy w Nowej Soli"
+        },
+        {
+            "id": "491",
+            "officeName": "Urząd Skarbowy w Świebodzinie"
+        },
+        {
+            "id": "492",
+            "officeName": "Urząd Skarbowy w Wolsztynie"
+        },
+        {
+            "id": "493",
+            "officeName": "Pierwszy Urząd Skarbowy w Zielonej Górze"
+        },
+        {
+            "id": "494",
+            "officeName": "Urząd Skarbowy w Żaganiu"
+        },
+        {
+            "id": "495",
+            "officeName": "Urząd Skarbowy w Żarach"
+        },
+        {
+            "id": "496",
+            "officeName": "Urząd Skarbowy w Łosicach"
+        },
+        {
+            "id": "497",
+            "officeName": "Urząd Skarbowy w Łosicach"
+        },
+        {
+            "id": "498",
+            "officeName": "Urząd Skarbowy w Piekarach Śląskich"
+        },
+        {
+            "id": "499",
+            "officeName": "Drugi Urząd Skarbowy w Koszalinie"
+        },
+        {
+            "id": "501",
+            "officeName": "Urząd Skarbowy W Górze"
+        },
+        {
+            "id": "502",
+            "officeName": "Urząd Skarbowy W Polkowicach"
+        },
+        {
+            "id": "503",
+            "officeName": "Urząd Skarbowy W Golubiu-Dobrzyniu"
+        },
+        {
+            "id": "504",
+            "officeName": "Urząd Skarbowy W Sepólnie Krajeńskim"
+        },
+        {
+            "id": "505",
+            "officeName": "Urząd Skarbowy W Łęcznej"
+        },
+        {
+            "id": "506",
+            "officeName": "Urząd Skarbowy W Rykach"
+        },
+        {
+            "id": "507",
+            "officeName": "Urząd Skarbowy W Łęczycy"
+        },
+        {
+            "id": "508",
+            "officeName": "Urząd Skarbowy W Pajęcznie"
+        },
+        {
+            "id": "509",
+            "officeName": "Urząd Skarbowy W Lipsku"
+        },
+        {
+            "id": "511",
+            "officeName": "Urząd Skarbowy w Żurominie"
+        },
+        {
+            "id": "512",
+            "officeName": "Urząd Skarbowy w Żurominie"
+        },
+        {
+            "id": "513",
+            "officeName": "Urząd Skarbowy w Lesznie"
+        },
+        {
+            "id": "514",
+            "officeName": "Urząd Skarbowy w Ostrzeszowie"
+        },
+        {
+            "id": "516",
+            "officeName": "Urząd Skarbowy w Ostrzeszowie"
+        },
+        {
+            "id": "519",
+            "officeName": "Urząd Skarbowy w Legionowie"
+        },
+        {
+            "id": "521",
+            "officeName": "Urząd Skarbowy Warszawa-Mokotów"
+        },
+        {
+            "id": "522",
+            "officeName": "Urząd Skarbowy Warszawa-Bemowo"
+        },
+        {
+            "id": "523",
+            "officeName": "Urząd Skarbowy Warszawa-Praga"
+        },
+        {
+            "id": "524",
+            "officeName": "Urząd Skarbowy Warszawa-Targówek"
+        },
+        {
+            "id": "525",
+            "officeName": "Pierwszy Urząd Skarbowy Warszawa-Śródmieście"
+        },
+        {
+            "id": "526",
+            "officeName": "Drugi Urząd Skarbowy Warszawa-Śródmieście"
+        },
+        {
+            "id": "527",
+            "officeName": "Urząd Skarbowy Warszawa-Wola"
+        },
+        {
+            "id": "528",
+            "officeName": "Urząd Skarbowy Warszawa-Bielany"
+        },
+        {
+            "id": "529",
+            "officeName": "Urząd Skarbowy w Grodzisku Mazowieckim"
+        },
+        {
+            "id": "531",
+            "officeName": "Urząd Skarbowy w Nowym Dworze Mazowieckim"
+        },
+        {
+            "id": "532",
+            "officeName": "Urząd Skarbowy w Otwocku"
+        },
+        {
+            "id": "533",
+            "officeName": "Urząd Skarbowy w Piasecznie"
+        },
+        {
+            "id": "534",
+            "officeName": "Urząd Skarbowy w Pruszkowie"
+        },
+        {
+            "id": "535",
+            "officeName": "Urząd Skarbowy w Wołominie"
+        },
+        {
+            "id": "536",
+            "officeName": "Urząd Skarbowy w Legionowie"
+        },
+        {
+            "id": "537",
+            "officeName": "Urząd Skarbowy w Białej Podlaskiej"
+        },
+        {
+            "id": "538",
+            "officeName": "Urząd Skarbowy w Radzyniu Podlaskim"
+        },
+        {
+            "id": "539",
+            "officeName": "Urząd Skarbowy w Parczewie"
+        },
+        {
+            "id": "541",
+            "officeName": "Filia US w Białej Podlaskiej/Łosice"
+        },
+        {
+            "id": "542",
+            "officeName": "Pierwszy Urząd Skarbowy w Białymstoku"
+        },
+        {
+            "id": "543",
+            "officeName": "Urząd Skarbowy w Bielsku Podlaskim"
+        },
+        {
+            "id": "544",
+            "officeName": "Urząd Skarbowy w Siemiatyczach"
+        },
+        {
+            "id": "545",
+            "officeName": "Urząd Skarbowy w Sokółce"
+        },
+        {
+            "id": "546",
+            "officeName": "Urząd Skarbowy w Mońkach"
+        },
+        {
+            "id": "547",
+            "officeName": "Pierwszy Urząd Skarbowy w Bielsku-Białej"
+        },
+        {
+            "id": "548",
+            "officeName": "Urząd Skarbowy w Cieszynie"
+        },
+        {
+            "id": "549",
+            "officeName": "Urząd Skarbowy w Oświęcimiu"
+        },
+        {
+            "id": "551",
+            "officeName": "Urząd Skarbowy w Wadowicach"
+        },
+        {
+            "id": "552",
+            "officeName": "Urząd Skarbowy w Suchej Beskidzkiej"
+        },
+        {
+            "id": "553",
+            "officeName": "Urząd Skarbowy w Żywcu"
+        },
+        {
+            "id": "554",
+            "officeName": "Pierwszy Urząd Skarbowy w Bydgoszczy"
+        },
+        {
+            "id": "555",
+            "officeName": "Urząd Skarbowy w Chojnicach"
+        },
+        {
+            "id": "556",
+            "officeName": "Urząd Skarbowy w Inowrocławiu"
+        },
+        {
+            "id": "557",
+            "officeName": "Urząd Skarbowy w Mogilnie"
+        },
+        {
+            "id": "558",
+            "officeName": "Urząd Skarbowy w Nakle nad Notecią "
+        },
+        {
+            "id": "559",
+            "officeName": "Urząd Skarbowy w Świeciu"
+        },
+        {
+            "id": "561",
+            "officeName": "Urząd Skarbowy w Tucholi"
+        },
+        {
+            "id": "562",
+            "officeName": "Urząd Skarbowy w Żninie"
+        },
+        {
+            "id": "563",
+            "officeName": "Urząd Skarbowy w Chełmie"
+        },
+        {
+            "id": "564",
+            "officeName": "Urząd Skarbowy w Krasnymstawie"
+        },
+        {
+            "id": "565",
+            "officeName": "Urząd Skarbowy we Włodawie"
+        },
+        {
+            "id": "566",
+            "officeName": "Urząd Skarbowy w Ciechanowie"
+        },
+        {
+            "id": "567",
+            "officeName": "Urząd Skarbowy w Płońsku"
+        },
+        {
+            "id": "568",
+            "officeName": "Urząd Skarbowy w Pułtusku"
+        },
+        {
+            "id": "569",
+            "officeName": "Urząd Skarbowy w Mławie"
+        },
+        {
+            "id": "571",
+            "officeName": "Urząd Skarbowy w Działdowie"
+        },
+        {
+            "id": "572",
+            "officeName": "Filia US w Mławie/Żuromin"
+        },
+        {
+            "id": "573",
+            "officeName": "Pierwszy Urząd Skarbowy w Częstochowie"
+        },
+        {
+            "id": "574",
+            "officeName": "Urząd Skarbowy w Kłobucku"
+        },
+        {
+            "id": "575",
+            "officeName": "Urząd Skarbowy w Lublińcu"
+        },
+        {
+            "id": "576",
+            "officeName": "Urząd Skarbowy w Oleśnie"
+        },
+        {
+            "id": "577",
+            "officeName": "Urząd Skarbowy w Myszkowie"
+        },
+        {
+            "id": "578",
+            "officeName": "Urząd Skarbowy w Elblągu"
+        },
+        {
+            "id": "579",
+            "officeName": "Urząd Skarbowy w Malborku"
+        },
+        {
+            "id": "581",
+            "officeName": "Urząd Skarbowy w Kwidzynie"
+        },
+        {
+            "id": "582",
+            "officeName": "Urząd Skarbowy w Braniewie"
+        },
+        {
+            "id": "583",
+            "officeName": "Pierwszy Urząd Skarbowy w Gdańsku"
+        },
+        {
+            "id": "584",
+            "officeName": "Drugi Urząd Skarbowy w Gdańsku"
+        },
+        {
+            "id": "585",
+            "officeName": "Urząd Skarbowy w Sopocie"
+        },
+        {
+            "id": "586",
+            "officeName": "Pierwszy Urząd Skarbowy w Gdyni"
+        },
+        {
+            "id": "587",
+            "officeName": "Urząd Skarbowy w Pucku"
+        },
+        {
+            "id": "588",
+            "officeName": "Urząd Skarbowy w Wejherowie"
+        },
+        {
+            "id": "589",
+            "officeName": "Urząd Skarbowy w Kartuzach"
+        },
+        {
+            "id": "591",
+            "officeName": "Urząd Skarbowy w Kościerzynie"
+        },
+        {
+            "id": "592",
+            "officeName": "Urząd Skarbowy w Starogardzie Gdańskim"
+        },
+        {
+            "id": "593",
+            "officeName": "Urząd Skarbowy w Tczewie"
+        },
+        {
+            "id": "594",
+            "officeName": "Urząd Skarbowy w Choszcznie"
+        },
+        {
+            "id": "595",
+            "officeName": "Urząd Skarbowy w Międzychodzie"
+        },
+        {
+            "id": "596",
+            "officeName": "Urząd Skarbowy w Międzyrzeczu"
+        },
+        {
+            "id": "597",
+            "officeName": "Urząd Skarbowy w Myśliborzu"
+        },
+        {
+            "id": "598",
+            "officeName": "Urząd Skarbowy w Słubicach"
+        },
+        {
+            "id": "599",
+            "officeName": "Urząd Skarbowy w Gorzowie Wielkopolskim"
+        },
+        {
+            "id": "601",
+            "officeName": "Urząd Skarbowy w Przysusze"
+        },
+        {
+            "id": "602",
+            "officeName": "Urząd Skarbowy w Nisku"
+        },
+        {
+            "id": "603",
+            "officeName": "Urząd Skarbowy w Hajnówce"
+        },
+        {
+            "id": "604",
+            "officeName": "Urząd Skarbowy w Pruszczu Gdańskim"
+        },
+        {
+            "id": "605",
+            "officeName": "Urząd Skarbowy w Kazimierzy Wielkiej"
+        },
+        {
+            "id": "606",
+            "officeName": "Urząd Skarbowy w Obornikach"
+        },
+        {
+            "id": "607",
+            "officeName": "Urząd Skarbowy w Chodzieży"
+        },
+        {
+            "id": "608",
+            "officeName": "Urząd Skarbowy w Pleszewie"
+        },
+        {
+            "id": "609",
+            "officeName": "Urząd Skarbowy we Włoszczowie"
+        },
+        {
+            "id": "611",
+            "officeName": "Urząd Skarbowy w Jeleniej-Górze"
+        },
+        {
+            "id": "612",
+            "officeName": "Urząd Skarbowy w Bolesławcu"
+        },
+        {
+            "id": "613",
+            "officeName": "Urząd Skarbowy w Lubaniu"
+        },
+        {
+            "id": "614",
+            "officeName": "Urząd Skarbowy w Kamiennej-Górze"
+        },
+        {
+            "id": "615",
+            "officeName": "Urząd Skarbowy w Zgorzelcu"
+        },
+        {
+            "id": "616",
+            "officeName": "Urząd Skarbowy w Lwówku ŚLąskim"
+        },
+        {
+            "id": "617",
+            "officeName": "Urząd Skarbowy w Jarocinie"
+        },
+        {
+            "id": "618",
+            "officeName": "Pierwszy Urząd Skarbowy w Kaliszu"
+        },
+        {
+            "id": "619",
+            "officeName": "Urząd Skarbowy w Kępnie"
+        },
+        {
+            "id": "621",
+            "officeName": "Urząd Skarbowy w Krotoszynie"
+        },
+        {
+            "id": "622",
+            "officeName": "Urząd Skarbowy w Ostrowie Wielkopolskim"
+        },
+        {
+            "id": "623",
+            "officeName": "Urząd Skarbowy w Piekarach Śląskich"
+        },
+        {
+            "id": "624",
+            "officeName": "Drugi Urząd Skarbowy w Koszalinie"
+        },
+        {
+            "id": "625",
+            "officeName": "Urząd Skarbowy w Będzinie"
+        },
+        {
+            "id": "626",
+            "officeName": "Urząd Skarbowy w Bytomiu"
+        },
+        {
+            "id": "627",
+            "officeName": "Urząd Skarbowy w Chorzowie"
+        },
+        {
+            "id": "628",
+            "officeName": "Urząd Skarbowy w Chrzanowie"
+        },
+        {
+            "id": "629",
+            "officeName": "Urząd Skarbowy w Dąbrowie Górniczej"
+        },
+        {
+            "id": "631",
+            "officeName": "Pierwszy Urząd Skarbowy w Gliwicach"
+        },
+        {
+            "id": "632",
+            "officeName": "Urząd Skarbowy w Jaworznie"
+        },
+        {
+            "id": "633",
+            "officeName": "Urząd Skarbowy w Jastrzębiu-Zdroju"
+        },
+        {
+            "id": "634",
+            "officeName": "Pierwszy Urząd Skarbowy w Katowicach"
+        },
+        {
+            "id": "635",
+            "officeName": "Urząd Skarbowy w Mikołowie"
+        },
+        {
+            "id": "636",
+            "officeName": "Urząd Skarbowy w Mysłowicach"
+        },
+        {
+            "id": "637",
+            "officeName": "Urząd Skarbowy w Olkuszu"
+        },
+        {
+            "id": "638",
+            "officeName": "Urząd Skarbowy w Pszczynie"
+        },
+        {
+            "id": "639",
+            "officeName": "Urząd Skarbowy w Raciborzu"
+        },
+        {
+            "id": "641",
+            "officeName": "Urząd Skarbowy w Rudzie Śląskiej"
+        },
+        {
+            "id": "642",
+            "officeName": "Urząd Skarbowy w Rybniku"
+        },
+        {
+            "id": "643",
+            "officeName": "Urząd Skarbowy w Siemianowicach Śląskich"
+        },
+        {
+            "id": "644",
+            "officeName": "Urząd Skarbowy w Sosnowcu"
+        },
+        {
+            "id": "645",
+            "officeName": "Urząd Skarbowy w Tarnowskich Górach"
+        },
+        {
+            "id": "646",
+            "officeName": "Urząd Skarbowy w Tychach"
+        },
+        {
+            "id": "647",
+            "officeName": "Urząd Skarbowy w Wodzisławiu Śląskim"
+        },
+        {
+            "id": "648",
+            "officeName": "Urząd Skarbowy w Zabrzu"
+        },
+        {
+            "id": "649",
+            "officeName": "Urząd Skarbowy w Zawierciu"
+        },
+        {
+            "id": "651",
+            "officeName": "Urząd Skarbowy w Żorach"
+        },
+        {
+            "id": "652",
+            "officeName": "Urząd Skarbowy w Czechowicach Dziedzicach"
+        },
+        {
+            "id": "653",
+            "officeName": "Urząd Skarbowy Tarnowskie Góry filia Piekary Śląskie"
+        },
+        {
+            "id": "654",
+            "officeName": "Filia US w Będzinie/Czeladź "
+        },
+        {
+            "id": "655",
+            "officeName": "Urząd Skarbowy w Busku-Zdroju"
+        },
+        {
+            "id": "656",
+            "officeName": "Urząd Skarbowy w Jędrzejowie"
+        },
+        {
+            "id": "657",
+            "officeName": "Pierwszy Urząd Skarbowy w Kielcach"
+        },
+        {
+            "id": "658",
+            "officeName": "Urząd Skarbowy w Końskich"
+        },
+        {
+            "id": "659",
+            "officeName": "Urząd Skarbowy w Miechowie"
+        },
+        {
+            "id": "661",
+            "officeName": "Urząd Skarbowy w Ostrowcu Świętokrzyskim"
+        },
+        {
+            "id": "662",
+            "officeName": "Urząd Skarbowy w Pińczowie"
+        },
+        {
+            "id": "663",
+            "officeName": "Urząd Skarbowy w Skarżysku Kamiennej"
+        },
+        {
+            "id": "664",
+            "officeName": "Urząd Skarbowy w Starachowicach"
+        },
+        {
+            "id": "665",
+            "officeName": "Urząd Skarbowy w Koninie"
+        },
+        {
+            "id": "666",
+            "officeName": "Urząd Skarbowy w Kole"
+        },
+        {
+            "id": "667",
+            "officeName": "Urząd Skarbowy w Słupcy"
+        },
+        {
+            "id": "668",
+            "officeName": "Urząd Skarbowy w Turku"
+        },
+        {
+            "id": "669",
+            "officeName": "Pierwszy Urząd Skarbowy w Koszalinie"
+        },
+        {
+            "id": "671",
+            "officeName": "Urząd Skarbowy w Kołobrzegu"
+        },
+        {
+            "id": "672",
+            "officeName": "Urząd Skarbowy w Białogardzie"
+        },
+        {
+            "id": "673",
+            "officeName": "Urząd Skarbowy w Szczecinku"
+        },
+        {
+            "id": "674",
+            "officeName": "Urząd Skarbowy w Drawsku Pomorskim"
+        },
+        {
+            "id": "675",
+            "officeName": "Urząd Skarbowy Kraków-Śródmieście"
+        },
+        {
+            "id": "676",
+            "officeName": "Urząd Skarbowy Kraków-Stare Miasto"
+        },
+        {
+            "id": "677",
+            "officeName": "Urząd Skarbowy Kraków-Krowodrza"
+        },
+        {
+            "id": "678",
+            "officeName": "Urząd Skarbowy Kraków-Nowa Huta"
+        },
+        {
+            "id": "679",
+            "officeName": "Urząd Skarbowy Kraków-Podgórze"
+        },
+        {
+            "id": "681",
+            "officeName": "Urząd Skarbowy w Myślenicach"
+        },
+        {
+            "id": "682",
+            "officeName": "Urząd Skarbowy w Proszowicach"
+        },
+        {
+            "id": "683",
+            "officeName": "Urząd Skarbowy w Wieliczce"
+        },
+        {
+            "id": "684",
+            "officeName": "Urząd Skarbowy w Krośnie"
+        },
+        {
+            "id": "685",
+            "officeName": "Urząd Skarbowy w Jaśle"
+        },
+        {
+            "id": "686",
+            "officeName": "Urząd Skarbowy w Brzozowie"
+        },
+        {
+            "id": "687",
+            "officeName": "Urząd Skarbowy w Sanoku"
+        },
+        {
+            "id": "688",
+            "officeName": "Urząd Skarbowy w Lesku"
+        },
+        {
+            "id": "689",
+            "officeName": "Urząd Skarbowy w Ustrzykach Dolnych"
+        },
+        {
+            "id": "691",
+            "officeName": "Urząd Skarbowy w Legnicy"
+        },
+        {
+            "id": "692",
+            "officeName": "Urząd Skarbowy w Lubinie"
+        },
+        {
+            "id": "693",
+            "officeName": "Urząd Skarbowy w Głogowie"
+        },
+        {
+            "id": "694",
+            "officeName": "Urząd Skarbowy w Złotoryi"
+        },
+        {
+            "id": "695",
+            "officeName": "Urząd Skarbowy w Jaworze"
+        },
+        {
+            "id": "696",
+            "officeName": "Urząd Skarbowy w Gostyniu"
+        },
+        {
+            "id": "697",
+            "officeName": "Urząd Skarbowy w Lesznie"
+        },
+        {
+            "id": "698",
+            "officeName": "Urząd Skarbowy w Kościanie"
+        },
+        {
+            "id": "699",
+            "officeName": "Urząd Skarbowy w Rawiczu"
+        },
+        {
+            "id": "701",
+            "officeName": "Trzeci Urząd Skarbowy  Warszawa-Śródmieście"
+        },
+        {
+            "id": "711",
+            "officeName": "Urząd Skarbowy w Lesznie"
+        },
+        {
+            "id": "712",
+            "officeName": "Pierwszy Urząd Skarbowy w Lublinie"
+        },
+        {
+            "id": "713",
+            "officeName": "Drugi Urząd Skarbowy w Lublinie"
+        },
+        {
+            "id": "714",
+            "officeName": "Urząd Skarbowy w Lubartowie"
+        },
+        {
+            "id": "715",
+            "officeName": "Urząd Skarbowy w Kraśniku"
+        },
+        {
+            "id": "716",
+            "officeName": "Urząd Skarbowy w Puławach"
+        },
+        {
+            "id": "717",
+            "officeName": "Urząd Skarbowy w Opolu Lubelskim"
+        },
+        {
+            "id": "718",
+            "officeName": "Urząd Skarbowy w Łomży"
+        },
+        {
+            "id": "719",
+            "officeName": "Urząd Skarbowy w Grajewie"
+        },
+        {
+            "id": "721",
+            "officeName": "Urząd Skarbowy w Kolnie"
+        },
+        {
+            "id": "722",
+            "officeName": "Urząd Skarbowy w Wysokiem Mazowieckiem"
+        },
+        {
+            "id": "723",
+            "officeName": "Urząd Skarbowy w Zambrowie"
+        },
+        {
+            "id": "724",
+            "officeName": "Pierwszy Urząd Skarbowy Łódź-Śródmieście"
+        },
+        {
+            "id": "725",
+            "officeName": "Urząd Skarbowy Łódź-Śródmieście"
+        },
+        {
+            "id": "726",
+            "officeName": "Pierwszy Urząd Skarbowy Łódź-Bałuty"
+        },
+        {
+            "id": "727",
+            "officeName": "Urząd Skarbowy Łódź-Polesie"
+        },
+        {
+            "id": "728",
+            "officeName": "Urząd Skarbowy Łódź-Widzew"
+        },
+        {
+            "id": "729",
+            "officeName": "Pierwszy Urząd Skarbowy Łódź-Górna"
+        },
+        {
+            "id": "731",
+            "officeName": "Urząd Skarbowy w Pabianicach"
+        },
+        {
+            "id": "732",
+            "officeName": "Urząd Skarbowy w Zgierzu"
+        },
+        {
+            "id": "733",
+            "officeName": "Urząd Skarbowy w Głownie"
+        },
+        {
+            "id": "734",
+            "officeName": "Urząd Skarbowy w Nowym Sączu"
+        },
+        {
+            "id": "735",
+            "officeName": "Urząd Skarbowy w Nowym Targu"
+        },
+        {
+            "id": "736",
+            "officeName": "Urząd Skarbowy w Zakopanem"
+        },
+        {
+            "id": "737",
+            "officeName": "Urząd Skarbowy w Limanowej"
+        },
+        {
+            "id": "738",
+            "officeName": "Urząd Skarbowy w Gorlicach"
+        },
+        {
+            "id": "739",
+            "officeName": "Urząd Skarbowy w Olsztynie"
+        },
+        {
+            "id": "741",
+            "officeName": "Urząd Skarbowy w Ostródzie"
+        },
+        {
+            "id": "742",
+            "officeName": "Urząd Skarbowy w Kętrzynie"
+        },
+        {
+            "id": "743",
+            "officeName": "Urząd Skarbowy w Bartoszycach"
+        },
+        {
+            "id": "744",
+            "officeName": "Urząd Skarbowy w Iławie"
+        },
+        {
+            "id": "745",
+            "officeName": "Urząd Skarbowy w Szczytnie"
+        },
+        {
+            "id": "746",
+            "officeName": "Filia US w Szczytnie/Nidzica"
+        },
+        {
+            "id": "747",
+            "officeName": "Urząd Skarbowy w Brzegu"
+        },
+        {
+            "id": "748",
+            "officeName": "Urząd Skarbowy w Głubczycach"
+        },
+        {
+            "id": "749",
+            "officeName": "Urząd Skarbowy w Kędzierzynie-Koźlu"
+        },
+        {
+            "id": "751",
+            "officeName": "Urząd Skarbowy w Kluczborku"
+        },
+        {
+            "id": "752",
+            "officeName": "Urząd Skarbowy w Namysłowie"
+        },
+        {
+            "id": "753",
+            "officeName": "Urząd Skarbowy w Nysie"
+        },
+        {
+            "id": "754",
+            "officeName": "Pierwszy Urząd Skarbowy w Opolu"
+        },
+        {
+            "id": "755",
+            "officeName": "Urząd Skarbowy w Prudniku"
+        },
+        {
+            "id": "756",
+            "officeName": "Urząd Skarbowy w Strzelcach Opolskich"
+        },
+        {
+            "id": "757",
+            "officeName": "Urząd Skarbowy w Makowie Mazowieckim"
+        },
+        {
+            "id": "758",
+            "officeName": "Urząd Skarbowy w Ostrołęce"
+        },
+        {
+            "id": "759",
+            "officeName": "Urząd Skarbowy w Ostrowi Mazowieckiej"
+        },
+        {
+            "id": "761",
+            "officeName": "Urząd Skarbowy w Przasnyszu"
+        },
+        {
+            "id": "762",
+            "officeName": "Urząd Skarbowy w Wyszkowie"
+        },
+        {
+            "id": "763",
+            "officeName": "Urząd Skarbowy w Czarnkowie"
+        },
+        {
+            "id": "764",
+            "officeName": "Urząd Skarbowy w Pile"
+        },
+        {
+            "id": "765",
+            "officeName": "Urząd Skarbowy w Wałczu"
+        },
+        {
+            "id": "766",
+            "officeName": "Urząd Skarbowy w Wągrowcu"
+        },
+        {
+            "id": "767",
+            "officeName": "Urząd Skarbowy w Złotowie"
+        },
+        {
+            "id": "768",
+            "officeName": "Urząd Skarbowy w Opocznie"
+        },
+        {
+            "id": "769",
+            "officeName": "Urząd Skarbowy w Bełchatowie"
+        },
+        {
+            "id": "771",
+            "officeName": "Urząd Skarbowy w Piotrkowie Trybunalskim"
+        },
+        {
+            "id": "772",
+            "officeName": "Urząd Skarbowy w Radomsku"
+        },
+        {
+            "id": "773",
+            "officeName": "Urząd Skarbowy w Tomaszowie Mazowieckim"
+        },
+        {
+            "id": "774",
+            "officeName": "Urząd Skarbowy w Płocku"
+        },
+        {
+            "id": "775",
+            "officeName": "Urząd Skarbowy w Kutnie"
+        },
+        {
+            "id": "776",
+            "officeName": "Urząd Skarbowy w Sierpcu"
+        },
+        {
+            "id": "777",
+            "officeName": "Pierwszy Urząd Skarbowy Poznań "
+        },
+        {
+            "id": "778",
+            "officeName": "Urząd Skarbowy Poznań-Śródmieście"
+        },
+        {
+            "id": "779",
+            "officeName": "Urząd Skarbowy Poznań-Grunwald"
+        },
+        {
+            "id": "781",
+            "officeName": "Urząd Skarbowy Poznań-Jeżyce"
+        },
+        {
+            "id": "782",
+            "officeName": "Urząd Skarbowy Poznań-Nowe Miasto"
+        },
+        {
+            "id": "783",
+            "officeName": "Urząd Skarbowy Poznań-Wilda"
+        },
+        {
+            "id": "784",
+            "officeName": "Urząd Skarbowy w Gnieźnie"
+        },
+        {
+            "id": "785",
+            "officeName": "Urząd Skarbowy w Śremie"
+        },
+        {
+            "id": "786",
+            "officeName": "Urząd Skarbowy w Środzie Wielkopolskiej"
+        },
+        {
+            "id": "787",
+            "officeName": "Urząd Skarbowy w Szamotułach"
+        },
+        {
+            "id": "788",
+            "officeName": "Urząd Skarbowy w Nowym Tomyślu"
+        },
+        {
+            "id": "789",
+            "officeName": "Urząd Skarbowy we Wrześni"
+        },
+        {
+            "id": "791",
+            "officeName": "Filia US w Nowym Tomyślu/Grodzisk Wlkp."
+        },
+        {
+            "id": "792",
+            "officeName": "Urząd Skarbowy w Jarosławiu"
+        },
+        {
+            "id": "793",
+            "officeName": "Urząd Skarbowy w Lubaczowie"
+        },
+        {
+            "id": "794",
+            "officeName": "Urząd Skarbowy w Przeworsku"
+        },
+        {
+            "id": "795",
+            "officeName": "Urząd Skarbowy w Przemyślu"
+        },
+        {
+            "id": "796",
+            "officeName": "Pierwszy Urząd Skarbowy w Radomiu"
+        },
+        {
+            "id": "797",
+            "officeName": "Urząd Skarbowy w Grójcu"
+        },
+        {
+            "id": "798",
+            "officeName": "Urząd Skarbowy w Białobrzegach"
+        },
+        {
+            "id": "799",
+            "officeName": "Urząd Skarbowy w Szydłowcu"
+        },
+        {
+            "id": "811",
+            "officeName": "Urząd Skarbowy w Zwoleniu"
+        },
+        {
+            "id": "812",
+            "officeName": "Urząd Skarbowy w Kozienicach"
+        },
+        {
+            "id": "813",
+            "officeName": "Urząd Skarbowy w Rzeszowie"
+        },
+        {
+            "id": "814",
+            "officeName": "Urząd Skarbowy w Kolbuszowej"
+        },
+        {
+            "id": "815",
+            "officeName": "Urząd Skarbowy w Łańcucie"
+        },
+        {
+            "id": "816",
+            "officeName": "Urząd Skarbowy w Leżajsku"
+        },
+        {
+            "id": "817",
+            "officeName": "Urząd Skarbowy w Mielcu"
+        },
+        {
+            "id": "818",
+            "officeName": "Urząd Skarbowy w Ropczycach"
+        },
+        {
+            "id": "819",
+            "officeName": "Urząd Skarbowy w Strzyżowie"
+        },
+        {
+            "id": "821",
+            "officeName": "Urząd Skarbowy w Siedlcach"
+        },
+        {
+            "id": "822",
+            "officeName": "Urząd Skarbowy w Mińsku Mazowieckim"
+        },
+        {
+            "id": "823",
+            "officeName": "Urząd Skarbowy w Sokołowie Podlaskim"
+        },
+        {
+            "id": "824",
+            "officeName": "Urząd Skarbowy w Węgrowie"
+        },
+        {
+            "id": "825",
+            "officeName": "Urząd Skarbowy w Łukowie"
+        },
+        {
+            "id": "826",
+            "officeName": "Urząd Skarbowy w Garwolinie"
+        },
+        {
+            "id": "827",
+            "officeName": "Urząd Skarbowy w Sieradzu"
+        },
+        {
+            "id": "828",
+            "officeName": "Urząd Skarbowy w Poddębicach"
+        },
+        {
+            "id": "829",
+            "officeName": "Urząd Skarbowy w Zduńskiej Woli"
+        },
+        {
+            "id": "831",
+            "officeName": "Urząd Skarbowy w Łasku"
+        },
+        {
+            "id": "832",
+            "officeName": "Urząd Skarbowy w Wieluniu"
+        },
+        {
+            "id": "833",
+            "officeName": "Urząd Skarbowy w Brzezinach"
+        },
+        {
+            "id": "834",
+            "officeName": "Urząd Skarbowy w Łowiczu"
+        },
+        {
+            "id": "835",
+            "officeName": "Urząd Skarbowy w Rawie Mazowieckiej"
+        },
+        {
+            "id": "836",
+            "officeName": "Urząd Skarbowy w Skierniewicach"
+        },
+        {
+            "id": "837",
+            "officeName": "Urząd Skarbowy w Sochaczewie"
+        },
+        {
+            "id": "838",
+            "officeName": "Urząd Skarbowy w Żyrardowie"
+        },
+        {
+            "id": "839",
+            "officeName": "Urząd Skarbowy w Słupsku"
+        },
+        {
+            "id": "841",
+            "officeName": "Urząd Skarbowy w Lęborku"
+        },
+        {
+            "id": "842",
+            "officeName": "Urząd Skarbowy w Bytowie"
+        },
+        {
+            "id": "843",
+            "officeName": "Urząd Skarbowy w Człuchowie"
+        },
+        {
+            "id": "844",
+            "officeName": "Urząd Skarbowy w Suwałkach"
+        },
+        {
+            "id": "845",
+            "officeName": "Urząd Skarbowy w Giżycku"
+        },
+        {
+            "id": "846",
+            "officeName": "Urząd Skarbowy w Augustowie"
+        },
+        {
+            "id": "847",
+            "officeName": "Urząd Skarbowy w Olecku"
+        },
+        {
+            "id": "848",
+            "officeName": "Urząd Skarbowy w Ełku"
+        },
+        {
+            "id": "849",
+            "officeName": "Urząd Skarbowy w Piszu"
+        },
+        {
+            "id": "851",
+            "officeName": "Pierwszy Urząd Skarbowy w Szczecinie"
+        },
+        {
+            "id": "852",
+            "officeName": "Drugi Urząd Skarbowy w Szczecinie"
+        },
+        {
+            "id": "853",
+            "officeName": "Urząd Skarbowy w Pyrzycach"
+        },
+        {
+            "id": "854",
+            "officeName": "Urząd Skarbowy w Starogardzie Szczecińskim"
+        },
+        {
+            "id": "855",
+            "officeName": "Urząd Skarbowy w Świnoujściu"
+        },
+        {
+            "id": "856",
+            "officeName": "Urząd Skarbowy w Goleniowie"
+        },
+        {
+            "id": "857",
+            "officeName": "Urząd Skarbowy w Gryficach"
+        },
+        {
+            "id": "858",
+            "officeName": "Urząd Skarbowy w Gryfinie"
+        },
+        {
+            "id": "859",
+            "officeName": "Filia US w Goleniowie/Nowogard"
+        },
+        {
+            "id": "861",
+            "officeName": "Filia US w Gryficach/Kamień Pom."
+        },
+        {
+            "id": "862",
+            "officeName": "Urząd Skarbowy w Janowie Lubelskim"
+        },
+        {
+            "id": "863",
+            "officeName": "Urząd Skarbowy w Opatowie"
+        },
+        {
+            "id": "864",
+            "officeName": "Urząd Skarbowy w Sandomierzu"
+        },
+        {
+            "id": "865",
+            "officeName": "Urząd Skarbowy w Stalowej Woli"
+        },
+        {
+            "id": "866",
+            "officeName": "Urząd Skarbowy w Staszowie"
+        },
+        {
+            "id": "867",
+            "officeName": "Urząd Skarbowy w Tarnobrzegu"
+        },
+        {
+            "id": "868",
+            "officeName": "Urząd Skarbowy w Bochni"
+        },
+        {
+            "id": "869",
+            "officeName": "Urząd Skarbowy w Brzesku"
+        },
+        {
+            "id": "871",
+            "officeName": "Urząd Skarbowy w Dąbrowie Tarnowskiej"
+        },
+        {
+            "id": "872",
+            "officeName": "Urząd Skarbowy w Dębicy"
+        },
+        {
+            "id": "873",
+            "officeName": "Pierwszy Urząd Skarbowy w Tarnowie"
+        },
+        {
+            "id": "874",
+            "officeName": "Urząd Skarbowy w Brodnicy"
+        },
+        {
+            "id": "875",
+            "officeName": "Urząd Skarbowy w Chełmnie"
+        },
+        {
+            "id": "876",
+            "officeName": "Urząd Skarbowy w Grudziądzu"
+        },
+        {
+            "id": "877",
+            "officeName": "Urząd Skarbowy w Nowym Mieście Lubawskim"
+        },
+        {
+            "id": "878",
+            "officeName": "Urząd Skarbowy w Wąbrzeźnie"
+        },
+        {
+            "id": "879",
+            "officeName": "Drugi Urząd Skarbowy w Toruniu"
+        },
+        {
+            "id": "881",
+            "officeName": "Urząd Skarbowy w Bystrzycy Kłodzkiej"
+        },
+        {
+            "id": "882",
+            "officeName": "Urząd Skarbowy w Dzierżoniowie"
+        },
+        {
+            "id": "883",
+            "officeName": "Urząd Skarbowy w Kłodzku"
+        },
+        {
+            "id": "884",
+            "officeName": "Urząd Skarbowy w Świdnicy"
+        },
+        {
+            "id": "885",
+            "officeName": "Urząd Skarbowy w Nowej Rudzie"
+        },
+        {
+            "id": "886",
+            "officeName": "Urząd Skarbowy w Wałbrzychu"
+        },
+        {
+            "id": "887",
+            "officeName": "Urząd Skarbowy w Ząbkowicach Śląskich"
+        },
+        {
+            "id": "888",
+            "officeName": "Urząd Skarbowy w Włocławku"
+        },
+        {
+            "id": "889",
+            "officeName": "Urząd Skarbowy w Radziejowie"
+        },
+        {
+            "id": "891",
+            "officeName": "Urząd Skarbowy w Aleksandrowie Kujawskim"
+        },
+        {
+            "id": "892",
+            "officeName": "Urząd Skarbowy w Rypinie"
+        },
+        {
+            "id": "893",
+            "officeName": "Urząd Skarbowy w Lipnie"
+        },
+        {
+            "id": "894",
+            "officeName": "Urząd Skarbowy Wrocław-Fabryczna"
+        },
+        {
+            "id": "895",
+            "officeName": "Urząd Skarbowy Wrocław-Psie Pole"
+        },
+        {
+            "id": "896",
+            "officeName": "Pierwszy Urząd Skarbowy we Wrocławiu"
+        },
+        {
+            "id": "897",
+            "officeName": "Urząd Skarbowy Wrocław-Stare Miasto"
+        },
+        {
+            "id": "898",
+            "officeName": "Drugi Urząd Skarbowy Wrocław-Śródmieście"
+        },
+        {
+            "id": "899",
+            "officeName": "Urząd Skarbowy Wrocław-Krzyki"
+        },
+        {
+            "id": "911",
+            "officeName": "Urząd Skarbowy w Oleśnicy"
+        },
+        {
+            "id": "912",
+            "officeName": "Urząd Skarbowy w Oławie"
+        },
+        {
+            "id": "913",
+            "officeName": "Urząd Skarbowy w Środzie Wielkopolskiej"
+        },
+        {
+            "id": "914",
+            "officeName": "Urząd Skarbowy w Strzelnie"
+        },
+        {
+            "id": "915",
+            "officeName": "Urząd Skarbowy w Trzebnicy"
+        },
+        {
+            "id": "916",
+            "officeName": "Urząd Skarbowy w Miliczu"
+        },
+        {
+            "id": "917",
+            "officeName": "Filia US w Trzebnicy/Wołów"
+        },
+        {
+            "id": "918",
+            "officeName": "Urząd Skarbowy w Biłgoraju"
+        },
+        {
+            "id": "919",
+            "officeName": "Urząd Skarbowy w Hrubieszowie"
+        },
+        {
+            "id": "921",
+            "officeName": "Urząd Skarbowy w Tomaszowie Lubelskim"
+        },
+        {
+            "id": "922",
+            "officeName": "Urząd Skarbowy w Zamościu"
+        },
+        {
+            "id": "923",
+            "officeName": "Urząd Skarbowy w Wolsztynie"
+        },
+        {
+            "id": "924",
+            "officeName": "Urząd Skarbowy w Żaganiu"
+        },
+        {
+            "id": "925",
+            "officeName": "Urząd Skarbowy w Nowej Soli"
+        },
+        {
+            "id": "926",
+            "officeName": "Urząd Skarbowy w Krośnie Odrzańskim"
+        },
+        {
+            "id": "927",
+            "officeName": "Urząd Skarbowy w Świebodzinie"
+        },
+        {
+            "id": "928",
+            "officeName": "Urząd Skarbowy w Żarach"
+        },
+        {
+            "id": "929",
+            "officeName": "Pierwszy Urząd Skarbowy w Zielonej Górze"
+        },
+        {
+            "id": "931",
+            "officeName": "Urząd Skarbowy Warszawa-Ursynów"
+        },
+        {
+            "id": "932",
+            "officeName": "Urząd Skarbowy Warszawa-Wawer"
+        },
+        {
+            "id": "933",
+            "officeName": "Drugi Urząd Skarbowy w Bydgoszczy"
+        },
+        {
+            "id": "934",
+            "officeName": "Drugi Urząd Skarbowy w Katowicach"
+        },
+        {
+            "id": "935",
+            "officeName": "Trzeci Urząd Skarbowy w Szczecinie"
+        },
+        {
+            "id": "936",
+            "officeName": "Pierwszy Urząd Skarbowy w Toruniu"
+        },
+        {
+            "id": "937",
+            "officeName": "Drugi Urząd Skarbowy w Bielsku-Białej"
+        },
+        {
+            "id": "938",
+            "officeName": "Drugi Urząd Skarbowy w Bielsku-Białej"
+        },
+        {
+            "id": "939",
+            "officeName": "Drugi Urząd Skarbowy w Częstochowie"
+        },
+        {
+            "id": "941",
+            "officeName": "Trzeci Urząd Skarbowy w Gdańsku"
+        },
+        {
+            "id": "942",
+            "officeName": "Drugi Urząd Skarbowy w Gdyni"
+        },
+        {
+            "id": "943",
+            "officeName": "Drugi Urząd Skarbowy w Kielcach"
+        },
+        {
+            "id": "944",
+            "officeName": "Urząd Skarbowy Kraków-Dębniki"
+        },
+        {
+            "id": "945",
+            "officeName": "Urząd Skarbowy Kraków-Prądnik"
+        },
+        {
+            "id": "946",
+            "officeName": "Trzeci Urząd Skarbowy w Lublinie"
+        },
+        {
+            "id": "947",
+            "officeName": "Drugi Urząd Skarbowy Łódź-Bałuty"
+        },
+        {
+            "id": "948",
+            "officeName": "Drugi Urząd Skarbowy w Radomiu"
+        },
+        {
+            "id": "949",
+            "officeName": "Drugi Urząd Skarbowy w Częstochowie"
+        },
+        {
+            "id": "951",
+            "officeName": "Urząd Skarbowy Warszawa-Ursynów"
+        },
+        {
+            "id": "952",
+            "officeName": "Urząd Skarbowy Warszawa-Wawer"
+        },
+        {
+            "id": "953",
+            "officeName": "Drugi Urząd Skarbowy w Bydgoszczy"
+        },
+        {
+            "id": "954",
+            "officeName": "Drugi Urząd Skarbowy w Katowicach"
+        },
+        {
+            "id": "955",
+            "officeName": "Trzeci Urząd Skarbowy w Szczecinie"
+        },
+        {
+            "id": "956",
+            "officeName": "Pierwszy Urząd Skarbowy w Toruniu"
+        },
+        {
+            "id": "957",
+            "officeName": "Trzeci Urząd Skarbowy w Gdańsku"
+        },
+        {
+            "id": "958",
+            "officeName": "Drugi Urząd Skarbowy w Gdyni"
+        },
+        {
+            "id": "959",
+            "officeName": "Drugi Urząd Skarbowy w Kielcach"
+        },
+        {
+            "id": "961",
+            "officeName": "Urząd Skarbowy Kraków-Dębniki"
+        },
+        {
+            "id": "962",
+            "officeName": "Urząd Skarbowy Kraków-Prądnik"
+        },
+        {
+            "id": "963",
+            "officeName": "Trzeci Urząd Skarbowy w Lublinie"
+        },
+        {
+            "id": "964",
+            "officeName": "Drugi Urząd Skarbowy Łódź-Bałuty"
+        },
+        {
+            "id": "965",
+            "officeName": "Drugi Urząd Skarbowy w Radomiu"
+        },
+        {
+            "id": "966",
+            "officeName": "Drugi Urząd Skarbowy w Białymstoku"
+        },
+        {
+            "id": "967",
+            "officeName": "Trzeci Urząd Skarbowy w Bydgoszczy"
+        },
+        {
+            "id": "968",
+            "officeName": "Drugi Urząd Skarbowy w Kaliszu"
+        },
+        {
+            "id": "969",
+            "officeName": "Drugi Urząd Skarbowy w Gliwicach"
+        },
+        {
+            "id": "971",
+            "officeName": "Urząd Skarbowy w Gostyninie"
+        },
+        {
+            "id": "972",
+            "officeName": "Urząd Skarbowy Poznań-Winogrady"
+        },
+        {
+            "id": "973",
+            "officeName": "Drugi Urząd Skarbowy w Zielonej-Górze"
+        },
+        {
+            "id": "974",
+            "officeName": "Drugi Urząd Skarbowy w Białymstoku"
+        },
+        {
+            "id": "975",
+            "officeName": "Trzeci Urząd Skarbowy w Bydgoszczy"
+        },
+        {
+            "id": "976",
+            "officeName": "Drugi Urząd Skarbowy w Bydgoszczy"
+        },
+        {
+            "id": "977",
+            "officeName": "Drugi Urząd Skarbowy w Gliwicach"
+        },
+        {
+            "id": "978",
+            "officeName": "Urząd Skarbowy w Gostyninie"
+        },
+        {
+            "id": "979",
+            "officeName": "Urząd Skarbowy Poznań-Winogrady"
+        },
+        {
+            "id": "981",
+            "officeName": "Drugi Urząd Skarbowy w Zielonej Górze"
+        },
+        {
+            "id": "982",
+            "officeName": "Drugi Urząd Skarbowy Łódź-Górna"
+        },
+        {
+            "id": "983",
+            "officeName": "Drugi Urząd Skarbowy Łódź-Górna"
+        },
+        {
+            "id": "984",
+            "officeName": "Urząd Skarbowy w Nidzicy"
+        },
+        {
+            "id": "985",
+            "officeName": "Urząd Skarbowy w Nidzicy"
+        },
+        {
+            "id": "986",
+            "officeName": "Urząd Skarbowy w Kamieniu Pomorskim"
+        },
+        {
+            "id": "987",
+            "officeName": "Urząd Skarbowy w Kamieniu Pomorskim"
+        },
+        {
+            "id": "988",
+            "officeName": "Urząd Skarbowy w Wołowie"
+        },
+        {
+            "id": "989",
+            "officeName": "Urząd Skarbowy w Wołowie"
+        },
+        {
+            "id": "991",
+            "officeName": "Drugi Urząd Skarbowy w Opolu"
+        },
+        {
+            "id": "992",
+            "officeName": "Drugi Urząd Skarbowy w Opolu"
+        },
+        {
+            "id": "993",
+            "officeName": "Drugi Urząd Skarbowy w Tarnowie"
+        },
+        {
+            "id": "994",
+            "officeName": "Drugi Urząd Skarbowy w Tarnowie"
+        },
+        {
+            "id": "995",
+            "officeName": "Urząd Skarbowy w Grodzisku Wielkopolskim"
+        },
+        {
+            "id": "996",
+            "officeName": "Urząd Skarbowy w Grodzisku Wielkopolskim"
+        },
+        {
+            "id": "997",
+            "officeName": "Urząd Skarbowy Wieluń lokalizacja w Wieruszowie"
+        },
+        {
+            "id": "998",
+            "officeName": "Urząd Skarbowy Wieluń lokalizacja w Wieruszowie"
+        }
+    ]
+}

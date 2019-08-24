@@ -1,0 +1,108 @@
+{
+    "converters": [
+        {
+            "letter": "a",
+            "number": "10"
+        },
+        {
+            "letter": "b",
+            "number": "11"
+        },
+        {
+            "letter": "c",
+            "number": "12"
+        },
+        {
+            "letter": "d",
+            "number": "13"
+        },
+        {
+            "letter": "e",
+            "number": "14"
+        },
+        {
+            "letter": "f",
+            "number": "15"
+        },
+        {
+            "letter": "g",
+            "number": "16"
+        },
+        {
+            "letter": "h",
+            "number": "17"
+        },
+        {
+            "letter": "i",
+            "number": "18"
+        },
+        {
+            "letter": "j",
+            "number": "19"
+        },
+        {
+            "letter": "k",
+            "number": "20"
+        },
+        {
+            "letter": "l",
+            "number": "21"
+        },
+        {
+            "letter": "m",
+            "number": "22"
+        },
+        {
+            "letter": "n",
+            "number": "23"
+        },
+        {
+            "letter": "o",
+            "number": "24"
+        },
+        {
+            "letter": "p",
+            "number": "25"
+        },
+        {
+            "letter": "q",
+            "number": "26"
+        },
+        {
+            "letter": "r",
+            "number": "27"
+        },
+        {
+            "letter": "s",
+            "number": "28"
+        },
+        {
+            "letter": "t",
+            "number": "29"
+        },
+        {
+            "letter": "u",
+            "number": "30"
+        },
+        {
+            "letter": "v",
+            "number": "31"
+        },
+        {
+            "letter": "w",
+            "number": "32"
+        },
+        {
+            "letter": "x",
+            "number": "33"
+        },
+        {
+            "letter": "y",
+            "number": "34"
+        },
+        {
+            "letter": "z",
+            "number": "35"
+        }
+    ]
+}
