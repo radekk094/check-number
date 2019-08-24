@@ -71,9 +71,9 @@ section form button {
 }
 
 div.bankAccount input:first-child {
-    text-align: center;
     width: 35px;
     margin-right: 5px;
+    text-align: center;
 }
 
 div.bankAccount input:last-child {
