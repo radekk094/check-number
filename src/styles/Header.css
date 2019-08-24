@@ -1,0 +1,87 @@
+header {
+    width: 100%;
+    margin-top: 52px;
+    background-image: url('../images/bgheader.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+header h1 {
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    line-height: 1.8;
+}
+
+header h1 span {
+    text-transform: uppercase;
+}
+
+@media (min-width: 360px) {
+    header h1 {
+        padding: 20px;
+        font-size: 24px;
+    }
+}
+
+@media (min-width: 460px) {
+    header h1 {
+        font-size: 28px;
+    }
+}
+
+@media (min-width: 640px) {
+    header {
+        height: 150px;
+    }
+
+    header h1 {
+        padding: 0;
+        line-height: 150px;
+    }
+}
+
+@media (min-height: 460px) and (min-width: 640px) {
+    header {
+        margin-top: 60px;
+    }
+}
+
+@media (min-width: 768px) {
+    header {
+        margin-top: 0;
+    }
+
+    header h1 {
+        font-size: 32px;
+    }
+}
+
+@media (min-width: 1024px) {
+    header {
+        height: 200px;
+    }
+
+    header h1 {
+        font-size: 40px;
+        line-height: 200px;
+    }
+}
+
+@media (min-width: 1280px) {
+    header {
+        height: 250px;
+    }
+
+    header h1 {
+        font-size: 54px;
+        line-height: 250px;
+    }
+}
+
+
+
+

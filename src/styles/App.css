@@ -1,0 +1,144 @@
+/* ========================================================================== */
+/* MAIN STYLES */
+/* ========================================================================== */
+
+
+div.app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+main {
+    flex-grow: 1;
+    background-color: #fafafa;
+    text-align: center;
+}
+
+section {
+    padding: 30px 10px;
+}
+
+section span {
+    text-transform: uppercase;
+}
+
+section form > *, section div.result h2 {
+    margin-bottom: 15px;
+}
+
+@media (min-width: 768px) {
+    section {
+        padding: 50px 20px;
+    }
+
+    section form > *, section div.result h2 {
+        margin-bottom: 20px;
+    }
+}
+
+
+
+/* ========================================================================== */
+/* FORM STYLES */
+/* ========================================================================== */
+
+
+section form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+section form input, section form button {
+    padding: 5px;
+    border: 2px solid #999;
+    background-color: #fff;
+    font-size: 1rem;
+}
+
+section form input {
+    width: 200px;
+}
+
+section form button {
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+div.bankAccount input:first-child {
+    text-align: center;
+    width: 35px;
+    margin-right: 5px;
+}
+
+div.bankAccount input:last-child {
+    width: 260px;
+}
+
+@media (min-width: 360px) {
+    div.bankAccount input:last-child {
+        width: 290px;
+    }
+}
+
+@media (min-width: 460px) {
+    section form input {
+        width: 12em;
+        padding: 10px;
+    }
+
+    section form button {
+        padding: 10px 20px;
+    }
+
+    div.bankAccount input:first-child {
+        width: calc(2em + 10px);
+        margin-right: 10px;
+    }
+
+    div.bankAccount input:last-child {
+        width: 18em;
+    }
+}
+
+@media (min-width: 768px) {
+    section form {
+        margin-bottom: 30px;
+    }
+}
+
+@media (min-width: 1024px) {
+    section form button:hover {
+        background-color: #222;
+        color: #fff;
+    }
+}
+
+
+
+/* ========================================================================== */
+/* RESULT STYLES */
+/* ========================================================================== */
+
+
+section div.result p {
+    margin-bottom: 10px;
+}
+
+section h2 {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
+section span.incorrect {
+    color: red;
+}
+
+section span.correct {
+    color: green;
+}

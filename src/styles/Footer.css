@@ -1,0 +1,23 @@
+footer {
+    padding: 10px 0;
+    background-color: #bbb;
+    color: #000;
+    text-align: center;
+    font-size: 12px;
+}
+
+footer span {
+    font-style: italic;
+}
+
+@media (min-width: 360px) {
+    footer {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 768px) {
+    footer {
+        font-size: 18px;
+    }
+}
