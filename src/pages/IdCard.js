@@ -2,15 +2,18 @@ import React, { Component } from 'react';
 
 class IdCard extends Component {
     state = {
-        idCardNumber: "",
-        idCardChecked: false,
-        idCardCorrect: false
+        idCardNumber: "", // ID card number from the form
+        idCardChecked: false, // has the ID card already been checked?
+        idCardCorrect: false // is the ID card correct?
     }
 
+    // factors, which are used to check, if the ID card is correct
     idCardFactor = "73173173";
 
+    // empty array for the letter converters (from another file) - because the ID card number includes some letters and the App has to replace these letters with numbers
     letterConverters = [];
 
+    // method, which changes the state with data from the form and resets result of the app (because after changing data, App shouldn't show the result)
     handleChangeIdCard = (e) => {
         const idCardNumber = e.target.value.toString();
         this.setState({
@@ -20,6 +23,7 @@ class IdCard extends Component {
         });
     }
 
+    // method, which checks, if the ID card number length is correct - and if the length is correct, it calls another method, which checks, if the ID card is correct
     handleSubmitIdCard = (e) => {
         e.preventDefault();
         if (this.state.idCardNumber.length !== 9) {
@@ -32,6 +36,7 @@ class IdCard extends Component {
         }
     }
 
+    // method, which checks, if the ID card is correct
     checkIdCard = () => {
         const idCardLetters = this.state.idCardNumber.slice(0, 3);
         const idCardDigits = this.state.idCardNumber.slice(4);
@@ -62,6 +67,7 @@ class IdCard extends Component {
         });
     }
 
+    // method, which replace letters, from the ID card number, with numbers
     getNumberFromLetter = (letter) => {
         let number = 0;
         this.letterConverters.forEach(letterConverter => {
@@ -72,6 +78,7 @@ class IdCard extends Component {
         return number;
     }
 
+    // method, which downloads letter converters from another file and saves it in this component
     fetchLetterConverters = () => {
         fetch('data/letterConverters.json')
             .then(response => response.json())
@@ -80,10 +87,12 @@ class IdCard extends Component {
             });
     }
 
+    // method, which is called after first rendering the component - it calls fetch method, which gets letter converters from another file
     componentDidMount() {
         this.fetchLetterConverters();
     }
 
+    // rendering the component with two parts - form to enter ID card number and the program result
     render() {
         return (
             <section className="idCard">

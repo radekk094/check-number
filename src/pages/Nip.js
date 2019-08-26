@@ -2,14 +2,16 @@ import React, { Component } from 'react';
 
 class Nip extends Component {
     state = {
-        nipNumber: "",
-        nipChecked: false,
-        nipCorrect: false,
-        taxOfficeName: ""
+        nipNumber: "", // nip number from the form
+        nipChecked: false, // has the nip already been checked?
+        nipCorrect: false, // is the nip correct?
+        taxOfficeName: "" // Tax Office Name based on the nip number
     }
 
+    // factors, which are used to check, if the nip is correct
     nipFactor = "657234567";
 
+    // method, which changes the state with data from the form and resets result of the app (because after changing data, App shouldn't show the result)
     handleChangeNip = (e) => {
         const nipNumber = e.target.value.toString()
         this.setState({
@@ -20,6 +22,7 @@ class Nip extends Component {
         });
     }
 
+    // method, which checks, if the nip number length is correct - and if the length is correct, it calls another method, which checks, if the nip is correct
     handleSubmitNip = (e) => {
         e.preventDefault();
         if (this.state.nipNumber.length !== 10) {
@@ -32,6 +35,7 @@ class Nip extends Component {
         }
     }
 
+    // method, which checks, if the nip is correct
     checkNip = () => {
         let nipElementsSum = 0;
 
@@ -50,6 +54,7 @@ class Nip extends Component {
         this.fetchTaxOfficeName();
     }
 
+    // method, which sets the Tax Office Name based on the nip number and data from another file
     fetchTaxOfficeName = () => {
         const officeId = this.state.nipNumber.slice(0, 3);
 
@@ -69,6 +74,7 @@ class Nip extends Component {
             });
     }
 
+    // rendering the component with two parts - form to enter nip number and the program result
     render() {
         return (
             <section className="nip">

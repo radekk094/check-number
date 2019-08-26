@@ -2,17 +2,20 @@ import React, { Component } from 'react';
 
 class BankAccount extends Component {
     state = {
-        bankAccountCountry: "PL",
-        bankAccountNumber: "",
-        bankAccountChecked: false,
-        bankAccountCorrect: false,
-        bankName: ""
+        bankAccountCountry: "PL", // country of bank account (default value: PL)
+        bankAccountNumber: "", // bank account number from the form
+        bankAccountChecked: false, // has the bank account already been checked?
+        bankAccountCorrect: false, // is the bank account correct?
+        bankName: "" // Bank Name based on the bank account number
     }
 
+    // factors, which are used to check, if the first part of the bank account number (the bank identifier) is correct
     bankIdentifierFactor = "3971397";
 
+    // empty array for the letter converters (from another file) - because the bank account number includes some letters and the App has to replace these letters with numbers
     letterConvertes = [];
 
+    // method, which changes the state with data from the form and resets result of the app (because after changing data, App shouldn't show the result)
     handleChangeBankAccount = (e) => {
         const bankAccountNumber = e.target.value.toString()
         this.setState({
@@ -23,6 +26,7 @@ class BankAccount extends Component {
         });
     }
 
+    // method, which checks, if the bank account number length is correct - and if the length is correct, it calls another method, which checks, if the bank account is correct
     handleSubmitBankAccount = (e) => {
         e.preventDefault();
         if (this.state.bankAccountNumber.length !== 26) {
@@ -39,6 +43,7 @@ class BankAccount extends Component {
         }
     }
 
+    // method, which checks, if the first part of the bank account number (the bank identifier) is correct
     checkBankIdentifier = () => {
         const bankIdentifier = this.state.bankAccountNumber.slice(2, 10);
         let bankIdentifierElementsSum = 0;
@@ -54,6 +59,7 @@ class BankAccount extends Component {
         return isCorrect;
     }
 
+    // method, which sets the Bank Name based on the bank account number and data from another file
     fetchBankName = () => {
         const bankId = this.state.bankAccountNumber.slice(2, 6);
 
@@ -73,6 +79,7 @@ class BankAccount extends Component {
             });
     }
 
+    // method, which checks, if the bank account is correct
     checkBankAccount = () => {
         let accountToCheck = this.state.bankAccountNumber.slice(2);
         for (let i = 0; i < 2; i++) {
@@ -103,6 +110,7 @@ class BankAccount extends Component {
         return (rest === 1);
     }
 
+    // method, which replace letters, from the bank account number, with numbers
     getNumberFromLetter = (letter) => {
         let number = 0;
         this.letterConverters.forEach(letterConverter => {
@@ -113,6 +121,7 @@ class BankAccount extends Component {
         return number;
     }
 
+    // method, which downloads letter converters from another file and saves it in this component
     fetchLetterConverters = () => {
         fetch('data/letterConverters.json')
             .then(response => response.json())
@@ -121,10 +130,12 @@ class BankAccount extends Component {
             });
     }
 
+    // method, which is called after first rendering the component - it calls fetch method, which gets letter converters from another file
     componentDidMount() {
         this.fetchLetterConverters();
     }
 
+    // rendering the component with two parts - form to enter bank account number and the program result
     render() {
         return (
             <section className="bankAccount">

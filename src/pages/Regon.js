@@ -2,14 +2,16 @@ import React, { Component } from 'react';
 
 class Regon extends Component {
     state = {
-        regonNumber: "",
-        regonChecked: false,
-        regonCorrect: false
+        regonNumber: "", // regon number from the form
+        regonChecked: false, // has the regon already been checked?
+        regonCorrect: false // is the regon correct?
     }
 
+    // factors, which are used to check, if the regon is correct (there are two variants of factor, because thera are two variants of regon - nine-digit and fourteen-digit)
     regonFactor = "89234567";
     regonFactorLong = "2485097361248";
 
+    // method, which changes the state with data from the form and resets result of the app (because after changing data, App shouldn't show the result)
     handleChangeRegon = (e) => {
         const regonNumber = e.target.value.toString()
         this.setState({
@@ -19,6 +21,7 @@ class Regon extends Component {
         });
     }
 
+    // method, which checks, if the regon number length is correct - and if the length is correct, it calls another method, which checks, if the regon is correct (there are two methods to check the correctness of the regon, because there are two variants of regon - nine-digit and fourteen-digit)
     handleSubmitRegon = (e) => {
         e.preventDefault();
         if (this.state.regonNumber.length === 9) {
@@ -41,6 +44,7 @@ class Regon extends Component {
         }
     }
 
+    // method, which checks, if the nine-digit regon is correct
     checkRegon = () => {
         let regonElementsSum = 0;
 
@@ -54,6 +58,7 @@ class Regon extends Component {
         return isCorrect;
     }
 
+    // method, which checks, if the fourteen-digit regon is correct
     checkRegonLong = () => {
         let regonElementsSum = 0;
 
@@ -67,6 +72,7 @@ class Regon extends Component {
         return isCorrect;
     }
 
+    // rendering the component with two parts - form to enter regon number and the program result
     render() {
         return (
             <section className="regon">

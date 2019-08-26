@@ -2,15 +2,17 @@ import React, { Component } from 'react';
 
 class Pesel extends Component {
     state = {
-        peselNumber: "",
-        peselChecked: false,
-        peselCorrect: false,
-        gender: "",
-        birthDate: ""
+        peselNumber: "", // pesel number from the form
+        peselChecked: false, // has the pesel already been checked?
+        peselCorrect: false, // is the pesel correct?
+        gender: "", // gender based on the pesel
+        birthDate: "" // date of birth based on the pesel
     }
 
+    // factors, which are used to check, if the pesel is correct
     peselFactor = "1379137913";
 
+    // method, which changes the state with data from the form and resets result of the app (because after changing data, App shouldn't show the result)
     handleChangePesel = (e) => {
         const peselNumber = e.target.value.toString()
         this.setState({
@@ -22,6 +24,7 @@ class Pesel extends Component {
         });
     }
 
+    // method, which checks, if the pesel number length is correct - and if the length is correct, it calls another method, which checks, if the pesel is correct
     handleSubmitPesel = (e) => {
         e.preventDefault();
         if (this.state.peselNumber.length !== 11) {
@@ -34,6 +37,7 @@ class Pesel extends Component {
         }
     }
 
+    // method, which checks, if the pesel is correct and it also sets gender based on the pesel
     checkPesel = () => {
         let peselElementsSum = 0;
 
@@ -55,6 +59,7 @@ class Pesel extends Component {
         });
     }
 
+    // method, which sets date of birth based on the pesel
     checkBirthDate = () => {
         let yyFirstPart;
 
@@ -82,6 +87,7 @@ class Pesel extends Component {
         return `${dd}.${(mm > 9 ? mm : `0${mm}`)}.${yyFirstPart}${yySecondPart}r.`;
     }
 
+    // rendering the component with two parts - form to enter pesel number and the program result
     render() {
         return (
             <section className="pesel">
